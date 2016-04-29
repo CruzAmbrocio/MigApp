@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "9.30%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sea8bf62b5204d16965b04d9f77eacca",
+    "_text_": "Email",
+    "_top_": {
+        "type": "string",
+        "value": "92dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sea8bf62b5204d16965b04d9f77eacca",
+    "id": "btnEmailKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "9e520a6549d74e3f8caae1999284ad96",
+    "name": "kony.ui.Button",
+    "parent": "flxSelectFormSingUpKA",
+    "pf": "frmLoginKA",
+    "wType": "Button",
+    "zindex": 1
+}

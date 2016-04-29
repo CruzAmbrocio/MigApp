@@ -1,0 +1,23 @@
+{
+    "AS_Button_60dde11f5ed1438aa10b4df347a83889": {
+        "id": "AS_Button_60dde11f5ed1438aa10b4df347a83889",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "98dba4fcde6048698e3f730f2523c34f"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__1037763193184124be4bfcb7ee14a60b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "trancitionLeft(\"17%\", \"lblLineIndicatorKA\", 0, 0.5);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

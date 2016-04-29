@@ -1,0 +1,11 @@
+{
+  "background_image": "bbirds.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "isDefaultSkin": false,
+  "kuid": "sb7a780834b94cc3b95d5e2f142b9a07",
+  "wType": "FlexContainer"
+}

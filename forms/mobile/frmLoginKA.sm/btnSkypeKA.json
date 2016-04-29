@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "9.30%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9ecd3bcbc67467c8d430e9902c8669a",
+    "_text_": "Skype",
+    "_top_": {
+        "type": "string",
+        "value": "267dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s9ecd3bcbc67467c8d430e9902c8669a",
+    "id": "btnSkypeKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fadd74ca25c84da7bb612b3e7919d3ff",
+    "name": "kony.ui.Button",
+    "parent": "flxSelectFormSingUpKA",
+    "pf": "frmLoginKA",
+    "wType": "Button",
+    "zindex": 1
+}

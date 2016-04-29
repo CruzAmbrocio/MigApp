@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "9.30%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se3023ee18ab43eab20b1eb3d4d89530",
+    "_text_": "Gmail",
+    "_top_": {
+        "type": "string",
+        "value": "210dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se3023ee18ab43eab20b1eb3d4d89530",
+    "id": "btnGmailKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "05b46c6b879e45979c20cb70ed2df953",
+    "name": "kony.ui.Button",
+    "parent": "flxSelectFormSingUpKA",
+    "pf": "frmLoginKA",
+    "wType": "Button",
+    "zindex": 1
+}

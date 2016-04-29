@@ -1,0 +1,23 @@
+{
+    "AS_Form_97dc87cfce0143b480c9fd92efaadbb4": {
+        "id": "AS_Form_97dc87cfce0143b480c9fd92efaadbb4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSplashKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ad48f5ca64f048f590bce3c2c90fd7ef"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__59ff6a489ae043b89468ffedbb5d60c4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "trancitionTopSplash(\"40%\", \"imgLogoSplashKA\", 0.2, 1);\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
