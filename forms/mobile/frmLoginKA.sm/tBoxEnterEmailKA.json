@@ -52,7 +52,9 @@
     "info": null,
     "iphone": {
         "psp": {
-            "keyboardActionLabel": 1
+            "keyboardActionLabel": 1,
+            "showClearButton": false,
+            "showCloseButton": false
         }
     },
     "isvisible": true,
@@ -66,6 +68,7 @@
     "parent": "flxSectionVerifyKA",
     "pf": "frmLoginKA",
     "securetextentry": false,
+    "showclearbutton": false,
     "textinputmode": "A",
     "viewtype": "default",
     "wType": "TextField",

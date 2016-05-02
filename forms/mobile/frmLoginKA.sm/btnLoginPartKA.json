@@ -35,10 +35,9 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 6,
-    "disabledSkins": {
-        "focusSkin": "seca0e7b6f7c4f8e98d722f9b011c431"
-    },
+    "disabledSkins": {},
     "displaytext": true,
+    "focusskin": "s0629bf5255b4f3eac83ad77573ae85b",
     "id": "btnLoginPartKA",
     "info": null,
     "isvisible": true,

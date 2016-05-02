@@ -1,0 +1,23 @@
+{
+    "AS_Button_3b05d3f946de4767b9d9a82bc2043423": {
+        "id": "AS_Button_3b05d3f946de4767b9d9a82bc2043423",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfigDataAppKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4f4b3c51f774056990183b9aa6894bb"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__09b4cdab1e6c4b6594f1717eb653f148",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "trancitionLeft(\"-100%\", \"flxSelectLanguageKA\", 0, 0.5);\ntrancitionLeft(\"0%\", \"flxSelectImFromKA\", 0, 0.5);\ntrancitionLeft(\"100%\", \"flxSelectNowILiveInKA\", 0, 0.5);\n\nfrmConfigDataAppKA.lblTextBigChangeKA.text = \"I am from...\";\nfrmConfigDataAppKA.lblTextSmallChangeKA.text = \"Search your country and city of origin.\";\n\nfrmConfigDataAppKA.flxIndicatorConfigOneKA.skin=sknc4c4c4R100KA;\nfrmConfigDataAppKA.flxIndicatorConfigTwoKA.skin=skn3ae8a1R100KA;\nfrmConfigDataAppKA.flxIndicatorConfigThreeKA.skin=sknc4c4c4R100KA;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

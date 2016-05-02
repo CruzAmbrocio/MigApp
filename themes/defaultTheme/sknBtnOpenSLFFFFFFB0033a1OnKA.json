@@ -89,32 +89,6 @@
       "y": -1
     }
   },
-  "iphone": {
-    "background_color": {
-      "angle": 0,
-      "colors": [
-        "d62c3aff",
-        "bd1421ff",
-        "dd878dff"
-      ],
-      "cs": [
-        0,
-        50,
-        100
-      ],
-      "gt": "linear"
-    },
-    "background_style": "linear",
-    "bg_type": "ms_gradient",
-    "font_name": "OpenSans-Light",
-    "isForked": true,
-    "text_shadow": {
-      "br": 0,
-      "color": "000000ff",
-      "x": 0,
-      "y": -1
-    }
-  },
   "isDefaultSkin": false,
   "kiosk": {
     "background_color": {

@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "9.30%"
+        "value": "13%"
     },
     "_margin_": [
         0,
@@ -13,23 +13,22 @@
         0
     ],
     "_padding_": [
-        0,
+        2,
         0,
         0,
         0
     ],
-    "_placeholder_": "",
-    "_skin_": "s4f9efc009ab4ad597eab8e03e80972c",
+    "_placeholder_": "Search a City",
+    "_skin_": "se4cb58f7055476888ab9f462eb3b35e",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "41dp"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
         "value": "85%"
     },
-    "android": {},
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -43,26 +42,28 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "focusskin": "s4f9efc009ab4ad597eab8e03e80972c",
-    "id": "TextField0d32eafd2eccb4e",
+    "focusskin": "se4cb58f7055476888ab9f462eb3b35e",
+    "id": "tBoxNameCityKA",
     "info": null,
     "iphone": {
         "psp": {
-            "keyboardActionLabel": 4
+            "showClearButton": false,
+            "showCloseButton": false
         }
     },
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "ffe8e31a3a1c4992925b0001e34ccc7a",
+    "kuid": "7eaf5650d3824850a122675eec66978f",
     "mode": "A",
     "name": "kony.ui.TextBox2",
+    "ontextchange": "AS_TextField_8097f1cee8274b78a5d4d2eedbb1923b",
     "paddinginpixel": false,
-    "parent": "flxContainerLoginPartKA",
-    "pf": "frmLoginKA",
-    "placeholderskin": "s4f9efc009ab4ad597eab8e03e80972c",
+    "parent": "flxSelectImFromKA",
+    "pf": "frmConfigDataAppKA",
+    "placeholderskin": "s7b7b216ce21455a9422ec8157d6c227",
     "securetextentry": false,
+    "showclearbutton": false,
     "textinputmode": "A",
     "viewtype": "default",
-    "wType": "TextField",
-    "zindex": 1
+    "wType": "TextField"
 }

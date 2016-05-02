@@ -50,6 +50,12 @@
     "focusskin": "s4f9efc009ab4ad597eab8e03e80972c",
     "id": "tBoxFullNameKA",
     "info": null,
+    "iphone": {
+        "psp": {
+            "showClearButton": false,
+            "showCloseButton": false
+        }
+    },
     "isvisible": true,
     "keyboardactionlabel": 1,
     "keyboardtype": "A",
@@ -61,6 +67,7 @@
     "pf": "frmLoginKA",
     "placeholderskin": "s4f9efc009ab4ad597eab8e03e80972c",
     "securetextentry": false,
+    "showclearbutton": false,
     "textinputmode": "A",
     "viewtype": "default",
     "wType": "TextField",

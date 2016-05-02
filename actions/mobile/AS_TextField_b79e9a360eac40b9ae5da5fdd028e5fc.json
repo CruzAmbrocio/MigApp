@@ -1,0 +1,26 @@
+{
+    "AS_TextField_b79e9a360eac40b9ae5da5fdd028e5fc": {
+        "id": "AS_TextField_b79e9a360eac40b9ae5da5fdd028e5fc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "98dba4fcde6048698e3f730f2523c34f"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__50ea192b12c344c8b1f4e391b53a55ab",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(frmLoginKA.tBoxEmailLoginKA.text !=\"\" && frmLoginKA.tBoxPasswordLoginKA.text !=\"\"){\n\tfrmLoginKA.btnLoginKA.skin = sknBtnOpenSLFFFFFFB0033a1OnKA;\n}else{\n\tfrmLoginKA.btnLoginKA.skin = sknBtnOpenSL808285BFFFFFFOffKA;\n}\n\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

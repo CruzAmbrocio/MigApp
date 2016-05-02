@@ -7,7 +7,7 @@
     },
     "_height_": {
         "type": "string",
-        "value": "54.20%"
+        "value": "53%"
     },
     "_margin_": [
         0,
@@ -35,7 +35,11 @@
         "type": "string",
         "value": "50%"
     },
-    "children": [],
+    "children": [
+        "flxSelectLanguageKA",
+        "flxSelectImFromKA",
+        "flxSelectNowILiveInKA"
+    ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,

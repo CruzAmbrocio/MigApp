@@ -1,0 +1,23 @@
+{
+    "AS_Button_4c3f1b790ca44e699ef7b0c0b7e9f758": {
+        "id": "AS_Button_4c3f1b790ca44e699ef7b0c0b7e9f758",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfigDataAppKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4f4b3c51f774056990183b9aa6894bb"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__a2d3197ad9144efba059be3331e29b51",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(frmConfigDataAppKA.tBoxNameCityKA);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

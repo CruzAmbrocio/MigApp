@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_01134f4284a444edbcacbf50c443f7be": {
+        "id": "AS_FlexContainer_01134f4284a444edbcacbf50c443f7be",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfigDataAppKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4f4b3c51f774056990183b9aa6894bb"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__b399eded3dd8481894d5d8e9c3060cff",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.flxIndicatorLanguageOneKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorLanguageTwoKA.skin = skn3ae8a1R100KA;\nfrmConfigDataAppKA.flxIndicatorLanguageThreeKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorLanguageFourKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorLanguageFiveKA.skin = skne2e2e2R100KA;\n\nfrmConfigDataAppKA.imgCheckLangOneKA.isVisible=false;\nfrmConfigDataAppKA.imgCheckLangTwoKA.isVisible=true;\nfrmConfigDataAppKA.imgCheckLangThreeKA.isVisible=false;\nfrmConfigDataAppKA.imgCheckLangFourKA.isVisible=false;\nfrmConfigDataAppKA.imgCheckLangFiveKA.isVisible=false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

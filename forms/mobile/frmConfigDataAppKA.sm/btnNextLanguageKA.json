@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sebf6b54f6ae452a9fc525cbb0c41b2f",
+    "_text_": "Next",
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1427487536c42069c7acfd721351a2a",
+    "id": "btnNextLanguageKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f20f324d56414beea3b585276f4e7857",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_3b05d3f946de4767b9d9a82bc2043423",
+    "parent": "flxSelectLanguageKA",
+    "pf": "frmConfigDataAppKA",
+    "wType": "Button",
+    "zindex": 1
+}

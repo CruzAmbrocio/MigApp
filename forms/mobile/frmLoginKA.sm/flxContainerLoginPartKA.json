@@ -38,9 +38,9 @@
     "children": [
         "lblTextEmailKA",
         "lblTextPassWordKA",
-        "TextField0d32eafd2eccb4e",
+        "tBoxEmailLoginKA",
         "lblLineGrayKA",
-        "TextField0134d3c4f88d546",
+        "tBoxPasswordLoginKA",
         "CopylblLineGrayKA018bf8e07578d49",
         "btnLoginKA",
         "lblForgotPasswordKA"

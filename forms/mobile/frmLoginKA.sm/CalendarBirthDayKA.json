@@ -19,6 +19,7 @@
         0,
         0
     ],
+    "_mode_": 2,
     "_padding_": [
         0,
         0,
@@ -61,6 +62,11 @@
     "hour": 0,
     "id": "CalendarBirthDayKA",
     "info": null,
+    "iphone": {
+        "psp": {
+            "mode": 2
+        }
+    },
     "isvisible": true,
     "kuid": "276842be70bb4c4db54187f66cffdd43",
     "luadate": [
