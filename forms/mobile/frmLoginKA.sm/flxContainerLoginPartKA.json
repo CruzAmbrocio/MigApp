@@ -50,7 +50,7 @@
     "enablescrolling": true,
     "id": "flxContainerLoginPartKA",
     "info": null,
-    "isvisible": false,
+    "isvisible": true,
     "kuid": "5aef6bb1f9c74199bb8540a55f84b0f5",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
@@ -58,6 +58,9 @@
     "pf": "frmLoginKA",
     "snapgridsize": 10,
     "snaptogrid": true,
+    "vizProps": {
+        "hide": false
+    },
     "wType": "FlexContainer",
     "widgetalignment": 1,
     "zindex": 1

@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_d140ff87739744428e94f167f768e7df": {
+        "id": "AS_FlexContainer_d140ff87739744428e94f167f768e7df",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "98dba4fcde6048698e3f730f2523c34f"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__0c5079a4fd9a45ee97868ca305a4eb66",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "opnMd();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

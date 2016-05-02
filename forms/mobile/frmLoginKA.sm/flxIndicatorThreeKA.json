@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_bottom_": {
         "type": "string",
-        "value": "5%"
+        "value": "10%"
     },
     "_height_": {
         "type": "string",
-        "value": "50dp"
+        "value": "12dp"
     },
     "_margin_": [
         0,
@@ -25,12 +25,12 @@
     "_percent_": true,
     "_right_": {
         "type": "string",
-        "value": "5%"
+        "value": "35%"
     },
-    "_skin_": "s5c9731ad38c441d96019aa2b7817cdb",
+    "_skin_": "se4f44e108a24e3aa68deda527268b94",
     "_width_": {
         "type": "string",
-        "value": "50dp"
+        "value": "12dp"
     },
     "allboxes": [],
     "autogrowmode": 0,
@@ -45,7 +45,7 @@
     "kuid": "c81ab8b1c8ea4f2880669c4be284dad7",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxSelectFormSingUpKA",
+    "parent": "flxContainerSingUpPartKA",
     "pf": "frmLoginKA",
     "snapgridsize": 10,
     "snaptogrid": true,

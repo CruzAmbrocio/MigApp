@@ -1,0 +1,85 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "check.png",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": [
+        "1",
+        "5",
+        "2016"
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "9.30%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4f9bd6905c44d2f9915e16a8fa4df38",
+    "_top_": {
+        "type": "string",
+        "value": "49%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "advview": "default",
+    "android": {},
+    "calendaricon": "check.png",
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "datecomponents": [
+        "1",
+        "5",
+        "2016"
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "day": "1",
+    "daytextalignmentincell": 5,
+    "entereddate": "01/05/2016",
+    "format": "dd/MM/yyyy",
+    "formatteddate": "01/05/2016",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "CalendarBirthDayKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "276842be70bb4c4db54187f66cffdd43",
+    "luadate": [
+        "1",
+        "5",
+        "2016"
+    ],
+    "minutes": 0,
+    "month": "5",
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "pagedate": "/2016",
+    "parent": "flxSectionEnterDataKA",
+    "pf": "frmLoginKA",
+    "seconds": 0,
+    "selectdate": "//2016",
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "year": "2016",
+    "zindex": 1
+}

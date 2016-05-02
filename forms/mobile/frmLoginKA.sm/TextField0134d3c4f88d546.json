@@ -29,7 +29,11 @@
         "type": "string",
         "value": "85%"
     },
-    "android": {},
+    "android": {
+        "psp": {
+            "keyboardActionLabel": 1
+        }
+    },
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -47,6 +51,7 @@
     "id": "TextField0134d3c4f88d546",
     "info": null,
     "isvisible": true,
+    "keyboardactionlabel": 1,
     "keyboardtype": "A",
     "kuid": "ab865657eab44cf0a7458fab7597a385",
     "mode": "A",

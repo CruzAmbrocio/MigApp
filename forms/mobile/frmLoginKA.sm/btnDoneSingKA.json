@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "9.30%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1427487536c42069c7acfd721351a2a",
+    "_text_": "Done",
+    "_top_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sea8bf62b5204d16965b04d9f77eacca",
+    "id": "btnDoneSingKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "3722610523764941aec75970b2a86196",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_cd317001eddf46c19e50f419b64dfc43",
+    "parent": "flxSectionVerifyKA",
+    "pf": "frmLoginKA",
+    "wType": "Button",
+    "zindex": 1
+}

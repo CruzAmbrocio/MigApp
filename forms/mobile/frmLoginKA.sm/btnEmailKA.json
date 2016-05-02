@@ -42,6 +42,7 @@
     "isvisible": true,
     "kuid": "9e520a6549d74e3f8caae1999284ad96",
     "name": "kony.ui.Button",
+    "onclick": "AS_Button_6dbceac46de447479eb3dd20517fe223",
     "parent": "flxSelectFormSingUpKA",
     "pf": "frmLoginKA",
     "wType": "Button",

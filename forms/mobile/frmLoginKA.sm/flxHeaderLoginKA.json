@@ -39,7 +39,8 @@
         "lblNameAppKA",
         "btnLoginPartKA",
         "btnSingUpPartKA",
-        "lblLineIndicatorKA"
+        "lblLineIndicatorKA",
+        "flxProfilePhotoKA"
     ],
     "clipbounds": true,
     "containerweight": 100,

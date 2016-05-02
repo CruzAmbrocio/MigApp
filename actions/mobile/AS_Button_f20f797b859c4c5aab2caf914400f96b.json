@@ -15,7 +15,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__02a67109976f47f4bcc28eec66bca716",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "trancitionLeft(\"54%\", \"lblLineIndicatorKA\", 0, 0.5);",
+            "codeSnippet": "trancitionLeft(\"54%\", \"lblLineIndicatorKA\", 0, 0.5);\n\ntrancitionLeft(\"-100%\", \"flxContainerLoginPartKA\", 0, 0.5);\ntrancitionLeft(\"0%\", \"flxContainerSingUpPartKA\", 0, 0.5);",
             "parentId": null,
             "callbackType": null
         }]

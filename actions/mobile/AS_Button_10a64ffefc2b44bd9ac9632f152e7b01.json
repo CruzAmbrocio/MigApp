@@ -1,0 +1,23 @@
+{
+    "AS_Button_10a64ffefc2b44bd9ac9632f152e7b01": {
+        "id": "AS_Button_10a64ffefc2b44bd9ac9632f152e7b01",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "98dba4fcde6048698e3f730f2523c34f"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__d41b8d3a0d894df7b6ac799b894cae80",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "trancitionLeft(\"-100%\", \"flxSectionEnterDataKA\", 0, 0.5);\ntrancitionLeft(\"0%\", \"flxSectionVerifyKA\", 0, 0.5);\n\nfrmLoginKA.flxIndicatorOneKA.skin = sknc4c4c4R100KA;\nfrmLoginKA.flxIndicatorTwoKA.skin =  sknc4c4c4R100KA;\nfrmLoginKA.flxIndicatorThreeKA.skin = sknFlx0033a1R100KA;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
