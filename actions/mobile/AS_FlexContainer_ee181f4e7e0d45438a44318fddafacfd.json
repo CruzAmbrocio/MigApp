@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_ee181f4e7e0d45438a44318fddafacfd": {
+        "id": "AS_FlexContainer_ee181f4e7e0d45438a44318fddafacfd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfigDataAppKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4f4b3c51f774056990183b9aa6894bb"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__4ce30d8d4dad4af392b8589652e9860c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.tBoxNameCityNowKA.text = \"          San Jose\";\n\nfrmConfigDataAppKA.flxIndicatorCityNowKA.isVisible = true;\n\nfrmConfigDataAppKA.btnDoneConfigKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;\n\nfrmConfigDataAppKA.imgBackKA.src = \"bnewyork.png\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

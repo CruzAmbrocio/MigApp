@@ -20,7 +20,10 @@
     "addWidgetsdone": false,
     "allboxes": [],
     "android": {
-        "needAppMenu": false
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        }
     },
     "canUpdateUI": true,
     "children": [
@@ -31,7 +34,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "iPhone5",
+    "device": "GalaxyS5",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmConfigDataAppKA",
@@ -71,11 +74,11 @@
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "paddinginpixel": false,
-    "platform": "iphone",
-    "prevDevice": "iPhone6",
-    "prevPlatform": "android",
+    "platform": "android",
+    "prevDevice": "iPhone5",
+    "prevPlatform": "iphone",
     "retainscrollposition": false,
-    "shellCSS": "iOS_iPhone5",
+    "shellCSS": "and_GalaxyS5",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

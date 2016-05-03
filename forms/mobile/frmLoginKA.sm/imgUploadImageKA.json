@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "150.00%"
     },
     "_margin_": [
         0,
@@ -23,7 +23,7 @@
     "_src_": "imagedrag.png",
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "142.50%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -37,7 +37,6 @@
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "frmLoginKA",
         "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null

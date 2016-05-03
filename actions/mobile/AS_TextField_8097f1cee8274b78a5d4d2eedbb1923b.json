@@ -18,7 +18,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__3526ec88c6ec4f1b853cdb4c1d50ac86",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "frmConfigDataAppKA.btnToogleImFromKA.isVisible = true;",
+            "codeSnippet": "frmConfigDataAppKA.btnToogleImFromKA.isVisible = true;\n\nif (frmConfigDataAppKA.tBoxNameCityKA.text == \"          \"){\n\tfrmConfigDataAppKA.flxIndicatorCityMainKA.isVisible = false;\n    frmConfigDataAppKA.tBoxNameCityKA.text = \"\";\n\tfrmConfigDataAppKA.btnNextImFromKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;\n}",
             "parentId": null,
             "callbackType": null
         }]

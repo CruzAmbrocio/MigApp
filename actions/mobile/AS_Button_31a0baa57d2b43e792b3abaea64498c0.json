@@ -1,0 +1,23 @@
+{
+    "AS_Button_31a0baa57d2b43e792b3abaea64498c0": {
+        "id": "AS_Button_31a0baa57d2b43e792b3abaea64498c0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "98dba4fcde6048698e3f730f2523c34f"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__50844ad8746a42fc980a1c3ea2566eb9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\nif (frmLoginKA.btnLoginSectionKA.skin == sknBtnOpenSLFFFFFFB2b49b1125OnKA){\n\tfrmNewsKA.show();\n}else {\n  \n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

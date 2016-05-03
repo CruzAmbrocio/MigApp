@@ -15,7 +15,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__1037763193184124be4bfcb7ee14a60b",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "trancitionLeft(\"17%\", \"lblLineIndicatorKA\", 0, 0.5);\n\ntrancitionLeft(\"0%\", \"flxContainerLoginPartKA\", 0, 0.5);\ntrancitionLeft(\"100%\", \"flxContainerSingUpPartKA\", 0, 0.5);",
+            "codeSnippet": "trancitionLeft(\"17%\", \"lblLineIndicatorKA\", 0, 0.5);\ntrancitionLeft(\"0%\", \"flxContainerLoginPartKA\", 0, 0.5);\ntrancitionLeft(\"100%\", \"flxContainerSingUpPartKA\", 0, 0.5);\n\nfrmLoginKA.tBoxEmailLoginKA.text = \"\";\nfrmLoginKA.tBoxPasswordLoginKA.text = \"\";\n\nfrmLoginKA.lblNameAppKA.isVisible = true;\nfrmLoginKA.flxProfilePhotoKA.isVisible = false;\n\nfrmLoginKA.imgUploadImageKA.isVisible = false;\nfrmLoginKA.imgCameraKA.isVisible = true;\n\nfrmLoginKA.btnNextSingUpKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;",
             "parentId": null,
             "callbackType": null
         }]

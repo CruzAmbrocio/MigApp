@@ -78,6 +78,7 @@
     "month": "5",
     "name": "kony.ui.Calendar",
     "noofmonths": 1,
+    "onselection": "AS_Calendar_73bbbff8b06c486ea758c990946ed19a",
     "pagedate": "/2016",
     "parent": "flxSectionEnterDataKA",
     "pf": "frmLoginKA",

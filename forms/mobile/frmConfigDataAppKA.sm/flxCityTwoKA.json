@@ -50,7 +50,7 @@
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "onclick": "AS_FlexContainer_20ce561a06274eb08d4744c0a2ffbb17",
-    "ontouchend": "AS_FlexContainer_fa6be486fcd94c40ab992f7be363967d",
+    "ontouchend": "AS_FlexContainer_fac3b30c197749e19579d323eb51338c",
     "parent": "btnToogleImFromKA",
     "pf": "frmConfigDataAppKA",
     "snapgridsize": 10,

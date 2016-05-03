@@ -9,6 +9,8 @@ function AS_FlexContainer_b50cb9cff1524e5281b17941d046ff2a(eventobject) {
     frmConfigDataAppKA.imgCheckCityThreeKA.isVisible = true;
     frmConfigDataAppKA.imgCheckCityFourKA.isVisible = false;
     frmConfigDataAppKA.imgCheckCityFiveKA.isVisible = false;
-    frmConfigDataAppKA.tBoxNameCityKA.text = "San Jose";
+    frmConfigDataAppKA.tBoxNameCityKA.text = "          San Jose";
+    frmConfigDataAppKA.flxIndicatorCityMainKA.isVisible = true;
+    frmConfigDataAppKA.imgBackKA.src = "bsaopaulo.png";
     frmConfigDataAppKA.btnNextImFromKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;
 }

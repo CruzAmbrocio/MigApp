@@ -15,7 +15,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__d41b8d3a0d894df7b6ac799b894cae80",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "trancitionLeft(\"-100%\", \"flxSectionEnterDataKA\", 0, 0.5);\ntrancitionLeft(\"0%\", \"flxSectionVerifyKA\", 0, 0.5);\n\nfrmLoginKA.flxIndicatorOneKA.skin = sknc4c4c4R100KA;\nfrmLoginKA.flxIndicatorTwoKA.skin =  sknc4c4c4R100KA;\nfrmLoginKA.flxIndicatorThreeKA.skin = sknFlx0033a1R100KA;",
+            "codeSnippet": "if (frmLoginKA.btnNextSingUpKA.skin == sknBtnOpenSLFFFFFFB2b49b1125OnKA){\n  trancitionLeft(\"-100%\", \"flxSectionEnterDataKA\", 0, 0.5);\n  trancitionLeft(\"0%\", \"flxSectionVerifyKA\", 0, 0.5);\n  frmLoginKA.flxIndicatorOneKA.skin = sknc4c4c4R100KA;\n  frmLoginKA.flxIndicatorTwoKA.skin =  sknc4c4c4R100KA;\n  frmLoginKA.flxIndicatorThreeKA.skin = sknFlx0033a1R100KA;  \n}else {\n  \n}\n\n\n\n",
             "parentId": null,
             "callbackType": null
         }]

@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_2d0c074f6cf14eb9b29efcb6e2e06ce1": {
+        "id": "AS_FlexContainer_2d0c074f6cf14eb9b29efcb6e2e06ce1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmConfigDataAppKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4f4b3c51f774056990183b9aa6894bb"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__66259d82169a48cfab854c053d8d1530",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.btnToogleImFromKA.isVisible = false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

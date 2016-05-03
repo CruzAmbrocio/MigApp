@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1427487536c42069c7acfd721351a2a",
+    "_text_": "Done",
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1427487536c42069c7acfd721351a2a",
+    "id": "btnDoneConfigKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cc79b82522d64ff5bd232376e2f048ce",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_e74cd74821014c2483992aebe69e196b",
+    "parent": "flxSelectNowILiveInKA",
+    "pf": "frmConfigDataAppKA",
+    "wType": "Button",
+    "zindex": 1
+}

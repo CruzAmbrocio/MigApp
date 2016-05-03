@@ -1,0 +1,26 @@
+{
+    "AS_TextField_691e3c7c206d43ac9d8f39398e4d48e0": {
+        "id": "AS_TextField_691e3c7c206d43ac9d8f39398e4d48e0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "98dba4fcde6048698e3f730f2523c34f"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__1d124c1f16d84f1b8a221ce73ce5dc05",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (frmLoginKA.tBoxEnterEmailKA.text != \"\" && frmLoginKA.tBoxPasswordKA.text != \"\" && frmLoginKA.tBoxVerifyPasswordKA.text != \"\"){\n\tfrmLoginKA.btnDoneSingKA.skin = sknBtnOpenSLFFFFFFB2b49b1125OnKA;\n}\n\nif (frmLoginKA.tBoxEnterEmailKA.text == \"\" && frmLoginKA.tBoxPasswordKA.text == \"\" && frmLoginKA.tBoxVerifyPasswordKA.text == \"\"){\n\tfrmLoginKA.btnDoneSingKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;\n}\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

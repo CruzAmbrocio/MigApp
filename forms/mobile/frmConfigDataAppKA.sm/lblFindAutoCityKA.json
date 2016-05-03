@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s944c7121a9e45349df4fce0e83bee66",
+    "_top_": {
+        "type": "string",
+        "value": "37%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "imgLocationAutoKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "lblFindAutoCityKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dcd809c6a3cd47d49935eeea241452cc",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "onclick": "AS_FlexContainer_140a6799d2764733b76093335874144c",
+    "ontouchend": "AS_FlexContainer_b6e4d060a1964c6db894b2a924f88154",
+    "parent": "flxSelectNowILiveInKA",
+    "pf": "frmConfigDataAppKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

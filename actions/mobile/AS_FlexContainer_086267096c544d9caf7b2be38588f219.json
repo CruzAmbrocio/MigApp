@@ -15,7 +15,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__30c6d5ade7d54bd0bb673a069f946b5a",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "frmLoginKA.flxContainerCheckFemaleKA.skin = skn3ae8a1R100KA;\nfrmLoginKA.imgCheckFemaleKA.isVisible = true;\nfrmLoginKA.CopylblLineGrayKA0ac350c468d874c.skin = sknLine0033a1KA;\nfrmLoginKA.lblTextFemaleKA.skin = sknLblOpenSR0033A1120KA;\n\n\nfrmLoginKA.flxContainerCheckMaleKA.skin = skne2e2e2R100KA;\nfrmLoginKA.imgCheckMaleKA.isVisible = false;\nfrmLoginKA.CopylblLineGrayKA063a4fac1d36942.skin = sknLinee2e2e2KA;\nfrmLoginKA.lblTextMaleKA.skin = sknLblOpenSRe2e2e2120KA;\n",
+            "codeSnippet": "frmLoginKA.flxContainerCheckFemaleKA.skin = skn3ae8a1R100KA;\nfrmLoginKA.imgCheckFemaleKA.isVisible = true;\nfrmLoginKA.CopylblLineGrayKA0ac350c468d874c.skin = sknLine0033a1KA;\nfrmLoginKA.lblTextFemaleKA.skin = sknLblOpenSR0033A1120KA;\n\nfrmLoginKA.flxContainerCheckMaleKA.skin = skne2e2e2R100KA;\nfrmLoginKA.imgCheckMaleKA.isVisible = false;\nfrmLoginKA.CopylblLineGrayKA063a4fac1d36942.skin = sknLinee2e2e2KA;\nfrmLoginKA.lblTextMaleKA.skin = sknLblOpenSRe2e2e2120KA;\n",
             "parentId": null,
             "callbackType": null
         }]

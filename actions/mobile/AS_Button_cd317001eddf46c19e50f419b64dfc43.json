@@ -13,15 +13,11 @@
             "KUID": "98dba4fcde6048698e3f730f2523c34f"
         },
         "actions": [{
-            "id": "NAVIGATE_TO_FORM___a8b2c84367984d679ac45d69d9e04e9d",
-            "type": "NAVIGATE_TO_FORM",
-            "formId": "frmConfigDataAppKA",
-            "formKUID": "c4f4b3c51f774056990183b9aa6894bb",
-            "mappings": {},
-            "mappingsOrder": [],
-            "parentId": "",
-            "callbackType": null,
-            "enableMappingEditor": true
+            "id": "ADD_SNIPPET__c298de45b92940d1983b4ece9d311dd2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (frmLoginKA.btnDoneSingKA.skin == sknBtnOpenSLFFFFFFB2b49b1125OnKA){\n\tfrmConfigDataAppKA.show(); \n}else {\n  \n}",
+            "parentId": null,
+            "callbackType": null
         }]
     }
 }

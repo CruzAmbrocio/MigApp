@@ -37,6 +37,7 @@
     },
     "children": [
         "tBoxNameCityKA",
+        "flxIndicatorCityMainKA",
         "CopyimgIconSearchLanguageKA0d404a661569c44",
         "btnToogleImFromKA",
         "btnNextImFromKA"
@@ -55,7 +56,7 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "vizProps": {
-        "hide": false
+        "hide": true
     },
     "wType": "FlexContainer",
     "widgetalignment": 1,

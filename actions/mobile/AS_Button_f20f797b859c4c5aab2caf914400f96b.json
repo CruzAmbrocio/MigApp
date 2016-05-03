@@ -15,7 +15,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__02a67109976f47f4bcc28eec66bca716",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "trancitionLeft(\"54%\", \"lblLineIndicatorKA\", 0, 0.5);\n\ntrancitionLeft(\"-100%\", \"flxContainerLoginPartKA\", 0, 0.5);\ntrancitionLeft(\"0%\", \"flxContainerSingUpPartKA\", 0, 0.5);",
+            "codeSnippet": "trancitionLeft(\"54%\", \"lblLineIndicatorKA\", 0, 0.5);\ntrancitionLeft(\"-100%\", \"flxContainerLoginPartKA\", 0, 0.5);\ntrancitionLeft(\"0%\", \"flxContainerSingUpPartKA\", 0, 0.5);\n\nfrmLoginKA.flxSelectFormSingUpKA.left = \"0%\";\nfrmLoginKA.flxSectionEnterDataKA.left = \"100%\";\nfrmLoginKA.flxSectionVerifyKA.left = \"100%\";\n\nfrmLoginKA.flxIndicatorOneKA.skin = sknFlx0033a1R100KA;\nfrmLoginKA.flxIndicatorTwoKA.skin = sknc4c4c4R100KA;\nfrmLoginKA.flxIndicatorThreeKA.skin = sknc4c4c4R100KA;\n\nfrmLoginKA.tBoxFullNameKA.text = \"\";\n\nfrmLoginKA.flxContainerCheckMaleKA.skin = skne2e2e2R100KA;\nfrmLoginKA.imgCheckMaleKA.isVisible = false;\nfrmLoginKA.CopylblLineGrayKA063a4fac1d36942.skin = sknLinee2e2e2KA;\nfrmLoginKA.lblTextMaleKA.skin = sknLblOpenSRe2e2e2120KA;\n\nfrmLoginKA.flxContainerCheckFemaleKA.skin = skne2e2e2R100KA;\nfrmLoginKA.imgCheckFemaleKA.isVisible = false;\nfrmLoginKA.CopylblLineGrayKA0ac350c468d874c.skin = sknLinee2e2e2KA;\nfrmLoginKA.lblTextFemaleKA.skin = sknLblOpenSRe2e2e2120KA;\n\nfrmLoginKA.tBoxEnterEmailKA.text = \"\";\nfrmLoginKA.tBoxPasswordKA.text = \"\";\nfrmLoginKA.tBoxVerifyPasswordKA.text = \"\";\n\nfrmLoginKA.btnNextSingUpKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;\nfrmLoginKA.btnDoneSingKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;\n",
             "parentId": null,
             "callbackType": null
         }]

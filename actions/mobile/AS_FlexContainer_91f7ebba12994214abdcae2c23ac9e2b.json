@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_91f7ebba12994214abdcae2c23ac9e2b": {
+        "id": "AS_FlexContainer_91f7ebba12994214abdcae2c23ac9e2b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmConfigDataAppKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4f4b3c51f774056990183b9aa6894bb"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__38f0d26c98794fc69c52b005cbb60c2e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.flxContainerToogleNowCityKA.isVisible = false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

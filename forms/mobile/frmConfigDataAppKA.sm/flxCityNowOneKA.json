@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s5c9731ad38c441d96019aa2b7817cdb",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "CopylblLineGrayKA03c32b89396754a",
+        "CopylblTextNameCityOneKA012ec5e50cdc44d",
+        "CopyflexIndicatorCityOneKA0dfef2d51dba745"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxCityNowOneKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e661cd820f6e4ae582cee5a1fccd1f54",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "onclick": "AS_FlexContainer_30c4a51d66574585aa7e47eb7e7a4db6",
+    "ontouchend": "AS_FlexContainer_52ec252022384993b656b812b221154b",
+    "parent": "flxContainerToogleNowCityKA",
+    "pf": "frmConfigDataAppKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

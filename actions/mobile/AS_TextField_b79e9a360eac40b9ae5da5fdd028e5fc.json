@@ -18,7 +18,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__50ea192b12c344c8b1f4e391b53a55ab",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "if(frmLoginKA.tBoxEmailLoginKA.text !=\"\" && frmLoginKA.tBoxPasswordLoginKA.text !=\"\"){\n\tfrmLoginKA.btnLoginKA.skin = sknBtnOpenSLFFFFFFB0033a1OnKA;\n}else{\n\tfrmLoginKA.btnLoginKA.skin = sknBtnOpenSL808285BFFFFFFOffKA;\n}\n\n",
+            "codeSnippet": "if (frmLoginKA.tBoxEmailLoginKA.text != \"\" && frmLoginKA.tBoxPasswordLoginKA.text != \"\"){\n\tfrmLoginKA.btnLoginSectionKA.skin = sknBtnOpenSLFFFFFFB2b49b1125OnKA;\n}\n\nif (frmLoginKA.tBoxEmailLoginKA.text == \"\" && frmLoginKA.tBoxPasswordLoginKA.text == \"\"){\n\tfrmLoginKA.btnLoginSectionKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;\n}\n",
             "parentId": null,
             "callbackType": null
         }]

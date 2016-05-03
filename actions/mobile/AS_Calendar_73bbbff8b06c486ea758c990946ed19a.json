@@ -1,0 +1,26 @@
+{
+    "AS_Calendar_73bbbff8b06c486ea758c990946ed19a": {
+        "id": "AS_Calendar_73bbbff8b06c486ea758c990946ed19a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "boolean",
+            "name": "isValidDateSelected"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "98dba4fcde6048698e3f730f2523c34f"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__fd07c8502906440f9960c0a0b93062d9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (frmLoginKA.tBoxFullNameKA.text != \"\" && frmLoginKA.flxContainerCheckFemaleKA.skin != skn3ae8a1R100KA ){\n\tfrmLoginKA.btnNextSingUpKA.skin = sknBtnOpenSLFFFFFFB2b49b1125OnKA;\n}\n\nif (frmLoginKA.tBoxFullNameKA.text != \"\" && frmLoginKA.flxContainerCheckMaleKA.skin != skn3ae8a1R100KA ){\n\tfrmLoginKA.btnNextSingUpKA.skin = sknBtnOpenSLFFFFFFB2b49b1125OnKA;\n}\n\nif (frmLoginKA.tBoxFullNameKA.text == \"\" && frmLoginKA.flxContainerCheckFemaleKA.skin == skn3ae8a1R100KA ){\n\tfrmLoginKA.btnNextSingUpKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;\n}\n\nif (frmLoginKA.tBoxFullNameKA.text == \"\" && frmLoginKA.flxContainerCheckMaleKA.skin == skn3ae8a1R100KA){\n\tfrmLoginKA.btnNextSingUpKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;\n}\n\n\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

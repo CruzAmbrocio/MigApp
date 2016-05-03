@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_8c677473484745ad9d738e778d4aa16e": {
+        "id": "AS_FlexContainer_8c677473484745ad9d738e778d4aa16e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfigDataAppKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4f4b3c51f774056990183b9aa6894bb"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__5fcdf35965794ccda0ae2c6a26a8c405",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.tBoxNameCityNowKA.text = \"          San Salvador\";\n\nfrmConfigDataAppKA.flxIndicatorCityNowKA.isVisible = true;\n\nfrmConfigDataAppKA.btnDoneConfigKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;\nfrmConfigDataAppKA.imgBackKA.src = \"bnewyork.png\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
