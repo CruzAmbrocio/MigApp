@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3aed1515f4e4b91a3175815218f682c",
+    "_text_": "Two powerfull M7.6 earthquakes hit Peru border region.",
+    "_top_": {
+        "type": "string",
+        "value": "27%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyLabel04b3c0cbf3f8244",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "dd275cc96a844abc9b8ba89aa9d6ffe9",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer0d820ccc2b6a448",
+    "pf": "frmNewsKA",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -19,8 +19,17 @@
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
+    "android": {
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "annotationId": "3cb2e025e7da4f7b9ed48257833714e6",
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "flxMainContainerNewsKA"
+    ],
     "containerweight": 100,
     "currentLocale": null,
     "desktopweb": {
@@ -39,6 +48,7 @@
         }
     },
     "iphone": {
+        "needAppMenu": false,
         "psp": {
             "inputAccessoryViewType": 4,
             "titleBarConfig": {
@@ -54,10 +64,10 @@
                 "titleBarRightSideView": "button",
                 "titleClosureLeftSideView": "",
                 "titleClosureRightSideView": "",
-                "visible": true
+                "visible": false
             }
         },
-        "titleBar": true
+        "titleBar": false
     },
     "isvisible": true,
     "kuid": "3cb2e025e7da4f7b9ed48257833714e6",
@@ -72,8 +82,23 @@
     "shellCSS": "iOS_iPhone6",
     "snapgridsize": 10,
     "snaptogrid": true,
+    "spaan": {
+        "needAppMenu": false
+    },
+    "spabb": {
+        "needAppMenu": false
+    },
+    "spaip": {
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "needAppMenu": false
+    },
     "titleBarSkin": "s23ea69b739f452cbe0cc09a12240d61",
     "titlebar": true,
     "type": 3,
-    "wType": "Form"
+    "wType": "Form",
+    "winphone8": {
+        "needAppMenu": false
+    }
 }

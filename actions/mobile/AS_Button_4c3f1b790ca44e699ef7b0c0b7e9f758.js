@@ -8,5 +8,6 @@ function AS_Button_4c3f1b790ca44e699ef7b0c0b7e9f758(eventobject) {
         frmConfigDataAppKA.flxIndicatorConfigOneKA.skin = sknc4c4c4R100KA;
         frmConfigDataAppKA.flxIndicatorConfigTwoKA.skin = sknc4c4c4R100KA;
         frmConfigDataAppKA.flxIndicatorConfigThreeKA.skin = skn3ae8a1R100KA;
+        frmConfigDataAppKA.imgBackKA.src = "bbirds.png";
     } else {}
 }

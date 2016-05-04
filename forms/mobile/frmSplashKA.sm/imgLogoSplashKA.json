@@ -9,7 +9,7 @@
     },
     "_height_": {
         "type": "string",
-        "value": "20.10%"
+        "value": "27%"
     },
     "_margin_": [
         0,
@@ -27,7 +27,7 @@
     "_src_": "logo.png",
     "_width_": {
         "type": "string",
-        "value": "33.33%"
+        "value": "52.00%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -37,6 +37,7 @@
     "containerweight": 100,
     "context": {
         "channel": "mobile",
+        "formID": "frmSplashKA",
         "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
@@ -44,6 +45,7 @@
     "id": "imgLogoSplashKA",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "isvisible": true,
     "kuid": "7715638dd4e74eb8a050dfdb1adf48dc",
     "name": "kony.ui.Image2",

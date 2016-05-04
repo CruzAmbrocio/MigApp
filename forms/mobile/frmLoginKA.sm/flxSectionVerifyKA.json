@@ -60,6 +60,9 @@
     "pf": "frmLoginKA",
     "snapgridsize": 10,
     "snaptogrid": false,
+    "vizProps": {
+        "hide": false
+    },
     "wType": "FlexContainer",
     "widgetalignment": 1,
     "zindex": 1

@@ -15,7 +15,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__f3ff10a2eb874636b15c1888b63db9af",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "frmConfigDataAppKA.tBoxNameCityNowKA.text = \"          San Diego\";\n\nfrmConfigDataAppKA.flxIndicatorCityNowKA.isVisible = true;\n\nfrmConfigDataAppKA.btnDoneConfigKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;\n\nfrmConfigDataAppKA.imgBackKA.src = \"bnewyork.png\";",
+            "codeSnippet": "frmConfigDataAppKA.tBoxNameCityNowKA.text = \"          San Diego\";\n\nfrmConfigDataAppKA.flxIndicatorCityNowKA.isVisible = true;\n\nfrmConfigDataAppKA.btnDoneConfigKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;\n\nfrmConfigDataAppKA.imgBackKA.src = \"bnewyork.png\";\n\nfrmConfigDataAppKA.flxIndicatorOneXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorTwoXyKA.skin = skn3ae8a1R100KA;\nfrmConfigDataAppKA.flxIndicatorThreeXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorFourXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorFiveXyKA.skin = skne2e2e2R100KA;\n\nfrmConfigDataAppKA.imgCheckLastOneKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastTwoKA.isVisible = true;\nfrmConfigDataAppKA.imgCheckLastThreeKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastFourKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastFiveKA.isVisible = false;",
             "parentId": null,
             "callbackType": null
         }]

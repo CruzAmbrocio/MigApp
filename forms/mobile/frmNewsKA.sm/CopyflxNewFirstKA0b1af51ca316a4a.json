@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s472e0a1dbf34598b6d57b3d2ceebaa7",
+    "_top_": {
+        "type": "string",
+        "value": "63.50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "CopyLabel046727feb170446",
+        "CopyLabel0f0f8c310a00747",
+        "CopyImage0a862e6eef63d4f",
+        "CopyLabel0a2cbe65b769a4d",
+        "CopyLabel023f0e78445dc48",
+        "CopylblLineGrayKA0ccb55f30fb6c47",
+        "CopyLabel00c961a54ccc441",
+        "CopyImage0d6bfd0c48d704b",
+        "CopyLabel07a013fc221d540"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyflxNewFirstKA0b1af51ca316a4a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e5bc1ecf21684582935e0eebedef2581",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexScrollNewsKA",
+    "pf": "frmNewsKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

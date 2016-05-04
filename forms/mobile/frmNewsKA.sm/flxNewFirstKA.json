@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s472e0a1dbf34598b6d57b3d2ceebaa7",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "Label0a9b924ce8ada47",
+        "Label0865008aa36cb40",
+        "Image0a87c0478bfdb41",
+        "Label0727e8370cb9147",
+        "Label09807ce922f7847",
+        "CopylblLineGrayKA018bf8e07578d49",
+        "Label0fcc469b9070f41",
+        "Image01c012a86347d46",
+        "Label0aa358d316afe4c"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxNewFirstKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "495f275c6820427f95e78a1cf4edd5fb",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexScrollNewsKA",
+    "pf": "frmNewsKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

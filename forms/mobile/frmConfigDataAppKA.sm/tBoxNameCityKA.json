@@ -29,6 +29,12 @@
         "type": "string",
         "value": "85%"
     },
+    "android": {
+        "onEndEditing": "AS_TextField_65c578aa2416470eb59cc2d81edc9fa2",
+        "psp": {
+            "keyboardActionLabel": 1
+        }
+    },
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -46,16 +52,19 @@
     "id": "tBoxNameCityKA",
     "info": null,
     "iphone": {
+        "onEndEditing": "AS_TextField_10aea912b78a4db7857b0ca638c6eeb6",
         "psp": {
             "showClearButton": false,
             "showCloseButton": false
         }
     },
     "isvisible": true,
+    "keyboardactionlabel": 1,
     "keyboardtype": "A",
     "kuid": "7eaf5650d3824850a122675eec66978f",
     "mode": "A",
     "name": "kony.ui.TextBox2",
+    "ondone": "AS_TextField_e9e40fc3e94f4947a93358911c1fa4eb",
     "ontextchange": "AS_TextField_8097f1cee8274b78a5d4d2eedbb1923b",
     "paddinginpixel": false,
     "parent": "flxSelectImFromKA",

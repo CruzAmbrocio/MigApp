@@ -1,0 +1,26 @@
+{
+    "AS_TextField_dc3c67c3e1fa41e49a7fbdc730334905": {
+        "id": "AS_TextField_dc3c67c3e1fa41e49a7fbdc730334905",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmConfigDataAppKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4f4b3c51f774056990183b9aa6894bb"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__d36a7d476e9940e680ce0307ef62f1e0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//frmConfigDataAppKA.flxContainerToogleNowCityKA.isVisible = false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

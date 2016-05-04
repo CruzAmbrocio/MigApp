@@ -29,7 +29,7 @@
     "_skin_": "s4f9bd6905c44d2f9915e16a8fa4df38",
     "_top_": {
         "type": "string",
-        "value": "49%"
+        "value": "50%"
     },
     "_width_": {
         "type": "string",
@@ -64,7 +64,7 @@
     "info": null,
     "iphone": {
         "psp": {
-            "mode": 2
+            "mode": 0
         }
     },
     "isvisible": true,
@@ -84,6 +84,10 @@
     "pf": "frmLoginKA",
     "seconds": 0,
     "selectdate": "//2016",
+    "viewconfig": {
+        "gridConfig": {},
+        "gridconfig": ""
+    },
     "viewtype": "default",
     "wType": "Calendar",
     "widgetalignment": 5,

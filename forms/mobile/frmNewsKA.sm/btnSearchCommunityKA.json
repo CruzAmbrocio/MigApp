@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "13%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1427487536c42069c7acfd721351a2a",
+    "_text_": "Search",
+    "_top_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1427487536c42069c7acfd721351a2a",
+    "id": "btnSearchCommunityKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cdbe8ca0e2f7422c84df806522cce68b",
+    "name": "kony.ui.Button",
+    "parent": "FlexScrollContainer0882192ab2a7b40",
+    "pf": "frmNewsKA",
+    "wType": "Button",
+    "zindex": 1
+}

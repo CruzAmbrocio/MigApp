@@ -1,0 +1,26 @@
+{
+    "AS_TextField_e9e40fc3e94f4947a93358911c1fa4eb": {
+        "id": "AS_TextField_e9e40fc3e94f4947a93358911c1fa4eb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmConfigDataAppKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4f4b3c51f774056990183b9aa6894bb"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__f533d9dce7244d8f871dd1f040de2bb5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//frmConfigDataAppKA.btnToogleImFromKA.isVisible = false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

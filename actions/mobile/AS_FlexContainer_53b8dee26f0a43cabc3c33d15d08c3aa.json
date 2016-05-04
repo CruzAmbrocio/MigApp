@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_53b8dee26f0a43cabc3c33d15d08c3aa": {
+        "id": "AS_FlexContainer_53b8dee26f0a43cabc3c33d15d08c3aa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3cb2e025e7da4f7b9ed48257833714e6"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__0accc48482bb497a8eb5a0da7ab9e7c7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewsKA.lblTextNewsKA.skin  = sknLblOpenSansRffffff125KA;\nfrmNewsKA.lblTextEventsKA.skin  = sknLblOpenSansR5474b8125KA;\n\nfrmNewsKA.lblIndicatorNewsKA.isVisible  = true;\nfrmNewsKA.lblIndicatorEventsKA.isVisible  = false;\n\ntrancitionLeft(\"0%\", \"FlexScrollNewsKA\", 0, 0.5);\ntrancitionLeft(\"100%\", \"FlexScrollEventsKA\", 0, 0.5);\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

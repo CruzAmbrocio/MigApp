@@ -30,7 +30,10 @@
         "value": "85%"
     },
     "android": {
-        "onEndEditing": "AS_TextField_1565f7e93b3f4425a3cb8929f6c4e23d"
+        "onEndEditing": "AS_TextField_1565f7e93b3f4425a3cb8929f6c4e23d",
+        "psp": {
+            "keyboardActionLabel": 1
+        }
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -50,13 +53,19 @@
     "id": "tBoxNameCityNowKA",
     "info": null,
     "iphone": {
-        "onEndEditing": "AS_TextField_fc408913755c4cd98eebbd8df64402fc"
+        "onEndEditing": "AS_TextField_fc408913755c4cd98eebbd8df64402fc",
+        "psp": {
+            "showClearButton": false,
+            "showCloseButton": false
+        }
     },
     "isvisible": true,
+    "keyboardactionlabel": 1,
     "keyboardtype": "A",
     "kuid": "9d5aae0915c343af8e1306291670b87f",
     "mode": "A",
     "name": "kony.ui.TextBox2",
+    "ondone": "AS_TextField_dc3c67c3e1fa41e49a7fbdc730334905",
     "ontextchange": "AS_TextField_7948934c199f46d083cec3cbd618065b",
     "paddinginpixel": false,
     "parent": "flxSelectNowILiveInKA",

@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "2px"
+        "value": "1px"
     },
     "_margin_": [
         1,
@@ -22,7 +22,7 @@
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "38%"
+        "value": "36%"
     },
     "_width_": {
         "type": "string",
