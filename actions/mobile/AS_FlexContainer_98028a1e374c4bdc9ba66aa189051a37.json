@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_98028a1e374c4bdc9ba66aa189051a37": {
+        "id": "AS_FlexContainer_98028a1e374c4bdc9ba66aa189051a37",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchEnd_d1bb43d432ce4641985cfe8d48636513",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewsKA.flxSelectorFromKA.isVisible = false;",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "AS_TextField_db2ac38e68044969891f9916f3b47c9f": {
+        "id": "AS_TextField_db2ac38e68044969891f9916f3b47c9f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmNewsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3cb2e025e7da4f7b9ed48257833714e6"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__8c6fcaf089e140d2bd2ceb8d72a48739",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewsKA.flxSelectorToKA.isVisible = true;\n\nif (frmNewsKA.tBoxToNewsKA.text == \"         \"){\n\tfrmNewsKA.flxIndicatorToKA.isVisible = false;\n    frmNewsKA.tBoxToNewsKA.text = \"\";\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

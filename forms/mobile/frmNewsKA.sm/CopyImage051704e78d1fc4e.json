@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "24.39%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc45f9a3f99644eca765a29c02e2c597",
+    "_src_": "thefxfirm.png",
+    "_top_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "68.43%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmNewsKA",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "CopyImage051704e78d1fc4e",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "3231ed944ede4d8e97c4c80d58d2b0fb",
+    "name": "kony.ui.Image2",
+    "parent": "CopyFlexContainer08dbfeb30d4fd44",
+    "pf": "frmNewsKA",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

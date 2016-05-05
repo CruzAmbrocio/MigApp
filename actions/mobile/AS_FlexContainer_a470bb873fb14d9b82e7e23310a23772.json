@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_a470bb873fb14d9b82e7e23310a23772": {
+        "id": "AS_FlexContainer_a470bb873fb14d9b82e7e23310a23772",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmInfoEventKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "2ce342e7466443518baf80e56b1a8591"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__9d1e61b6408945338742f27cac8925fd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmInfoEventKA.flxSundayKA.skin = skne2e2e2R100KA;\nfrmInfoEventKA.flxMondayKA.skin = skne2e2e2R100KA;\nfrmInfoEventKA.flxThuesday.skin = skn3ae8a1R100KA;\nfrmInfoEventKA.flxWednesdayKA.skin = skne2e2e2R100KA;\nfrmInfoEventKA.flxThursdayKA.skin = skne2e2e2R100KA;\nfrmInfoEventKA.flxFridayKA.skin = skne2e2e2R100KA;\nfrmInfoEventKA.flxSaturdayKA.skin = skne2e2e2R100KA;\n\nfrmInfoEventKA.lblSunKA.skin = sknLblOpenSansSemBC4C4C4100KA;\nfrmInfoEventKA.lblMonKA.skin = sknLblOpenSansSemBC4C4C4100KA;\nfrmInfoEventKA.lblThKA.skin = sknLblOpenSansSemBffffff100KA;\nfrmInfoEventKA.lblWedKA.skin = sknLblOpenSansSemBC4C4C4100KA;\nfrmInfoEventKA.lblThurKA.skin = sknLblOpenSansSemBC4C4C4100KA;\nfrmInfoEventKA.lblFridKA.skin = sknLblOpenSansSemBC4C4C4100KA;\nfrmInfoEventKA.lblSatKA.skin = sknLblOpenSansSemBC4C4C4100KA;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

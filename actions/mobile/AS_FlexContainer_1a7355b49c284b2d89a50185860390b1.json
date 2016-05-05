@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_1a7355b49c284b2d89a50185860390b1": {
+        "id": "AS_FlexContainer_1a7355b49c284b2d89a50185860390b1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3cb2e025e7da4f7b9ed48257833714e6"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__083c353dc452456e80b18c9b697a6e2e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewsKA.tBoxToNewsKA.text = \"         United Estates\";\nfrmNewsKA.flxIndicatorToKA.isVisible = true;\n\nfrmNewsKA.flxIndicatorToOneKA.skin = skne2e2e2R100KA;\nfrmNewsKA.flxIndicatorToTwoKA.skin = skne2e2e2R100KA;\nfrmNewsKA.flxIndicatorToThreeKA.skin = skne2e2e2R100KA;\nfrmNewsKA.flxIndicatorToFourKA.skin = skn3ae8a1R100KA;\nfrmNewsKA.flxIndicatorToFiveKA.skin = skne2e2e2R100KA;\n\nfrmNewsKA.imgToOneKA.isVisible=false;\nfrmNewsKA.imgToTwoKA.isVisible=false;\nfrmNewsKA.imgToThreeKA.isVisible=false;\nfrmNewsKA.imgToFourKA.isVisible=true;\nfrmNewsKA.imgToFiveKA.isVisible=false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -35,7 +35,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "iPhone6",
+    "device": "iPhone5",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmNewsKA",
@@ -79,7 +79,7 @@
     "prevDevice": "iPhone6",
     "prevPlatform": "iphone",
     "retainscrollposition": false,
-    "shellCSS": "iOS_iPhone6",
+    "shellCSS": "iOS_iPhone5",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

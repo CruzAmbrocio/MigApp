@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_4b917baf00ef432eb8539ec62a76df4f": {
+        "id": "AS_FlexContainer_4b917baf00ef432eb8539ec62a76df4f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_fa4776cf3ef24638a6a4edc3d1d26119",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewsKA.imgCommunityKA.src = \"iconcommunitygray.png\";\nfrmNewsKA.imgRemittance.src = \"iconremittanceblue.png\";\nfrmNewsKA.imgAssistance.src = \"iconasistancegray.png\";\nfrmNewsKA.imgAlertsKA.src = \"iconalertgray.png\";\n\nfrmNewsKA.imgLogoSectionKA.src = \"iconremmitancesmall.png\";\nfrmNewsKA.lblNameSectionKA.text = \"Remmitance\";\ntrancitionLeft(\"-100%\", \"flxContainerNewsCommunityKA\", 0, 0.5);\ntrancitionLeft(\"0%\", \"flxContainerNewsRemittenceKA\", 0, 0.5);\ntrancitionLeft(\"100%\", \"flxContainerNewsAssistenceKA\", 0, 0.5);\ntrancitionLeft(\"100%\", \"flxContainerNewsAlertsKA\", 0, 0.5);\n\nfrmNewsKA.flxHeaderNewsKA.skin=CopysknFlx02e4fc0f19a8749;",
+            "callbackType": null
+        }]
+    }
+}

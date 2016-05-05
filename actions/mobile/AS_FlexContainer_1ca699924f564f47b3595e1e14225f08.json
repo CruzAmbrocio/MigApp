@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_1ca699924f564f47b3595e1e14225f08": {
+        "id": "AS_FlexContainer_1ca699924f564f47b3595e1e14225f08",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_10818ec4e5364642980402eafcc5ec3f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewsKA.imgCommunityKA.src = \"iconcommunitygray.png\";\nfrmNewsKA.imgRemittance.src = \"iconremittancegray.png\";\nfrmNewsKA.imgAssistance.src = \"iconasistancegray.png\";\nfrmNewsKA.imgAlertsKA.src = \"iconalertblue.png\";\n\nfrmNewsKA.imgLogoSectionKA.src = \"iconalertsmall.png\";\nfrmNewsKA.lblNameSectionKA.text = \"Alerts\";\ntrancitionLeft(\"-100%\", \"flxContainerNewsCommunityKA\", 0, 0.5);\ntrancitionLeft(\"-100%\", \"flxContainerNewsRemittenceKA\", 0, 0.5);\ntrancitionLeft(\"-100%\", \"flxContainerNewsAssistenceKA\", 0, 0.5);\ntrancitionLeft(\"0%\", \"flxContainerNewsAlertsKA\", 0, 0.5);\n\nfrmNewsKA.flxHeaderNewsKA.skin=CopysknFlx02e4fc0f19a8749;",
+            "callbackType": null
+        }]
+    }
+}

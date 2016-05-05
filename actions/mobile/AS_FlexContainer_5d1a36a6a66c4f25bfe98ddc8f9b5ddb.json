@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_5d1a36a6a66c4f25bfe98ddc8f9b5ddb": {
+        "id": "AS_FlexContainer_5d1a36a6a66c4f25bfe98ddc8f9b5ddb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3cb2e025e7da4f7b9ed48257833714e6"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__5901156db4e84405a03dbc3a3e157e87",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewsKA.tBoxToNewsKA.text = \"         Uzbekistan\";\nfrmNewsKA.flxIndicatorToKA.isVisible = true;\n\nfrmNewsKA.flxIndicatorToOneKA.skin = skne2e2e2R100KA;\nfrmNewsKA.flxIndicatorToTwoKA.skin = skn3ae8a1R100KA;\nfrmNewsKA.flxIndicatorToThreeKA.skin = skne2e2e2R100KA;\nfrmNewsKA.flxIndicatorToFourKA.skin = skne2e2e2R100KA;\nfrmNewsKA.flxIndicatorToFiveKA.skin = skne2e2e2R100KA;\n\nfrmNewsKA.imgToOneKA.isVisible=false;\nfrmNewsKA.imgToTwoKA.isVisible=true;\nfrmNewsKA.imgToThreeKA.isVisible=false;\nfrmNewsKA.imgToFourKA.isVisible=false;\nfrmNewsKA.imgToFiveKA.isVisible=false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

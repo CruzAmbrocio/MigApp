@@ -47,7 +47,7 @@
     "kuid": "9f805e6d9677467fa8dd70b7de916de5",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxContainerNewsAssistenceKA",
+    "parent": "flxContainerSelectableKA",
     "pf": "frmNewsKA",
     "snapgridsize": 10,
     "snaptogrid": true,

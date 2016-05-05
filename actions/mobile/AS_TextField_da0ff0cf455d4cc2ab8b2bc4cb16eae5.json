@@ -1,0 +1,19 @@
+{
+    "AS_TextField_da0ff0cf455d4cc2ab8b2bc4cb16eae5": {
+        "id": "AS_TextField_da0ff0cf455d4cc2ab8b2bc4cb16eae5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onTextChange_eda1a20044694d169e23c24e00c2721a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewsKA.flxSelectorFromKA.isVisible = true;\n\nif (frmNewsKA.tBoxFromNewsKA.text == \"         \"){\n\tfrmNewsKA.flxIndicatorCommunityKA.isVisible = false;\n    frmNewsKA.tBoxFromNewsKA.text = \"\";\n}",
+            "callbackType": null
+        }]
+    }
+}

@@ -29,6 +29,11 @@
         "type": "string",
         "value": "85%"
     },
+    "android": {
+        "psp": {
+            "keyboardActionLabel": 1
+        }
+    },
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -45,17 +50,23 @@
     "focusskin": "se4cb58f7055476888ab9f462eb3b35e",
     "id": "tBoxFromNewsKA",
     "info": null,
-    "iphone": {},
+    "iphone": {
+        "psp": {
+            "showClearButton": false,
+            "showCloseButton": false
+        }
+    },
     "isvisible": true,
     "keyboardtype": "A",
     "kuid": "b211e424855f4ef8a4f3122530daae18",
     "mode": "A",
     "name": "kony.ui.TextBox2",
-    "ontextchange": "AS_TextField_43b56cde8fa44fa5814f45136392085a",
+    "ontextchange": "AS_TextField_da0ff0cf455d4cc2ab8b2bc4cb16eae5",
     "parent": "FlexScrollContainer0882192ab2a7b40",
     "pf": "frmNewsKA",
     "placeholderskin": "s7b7b216ce21455a9422ec8157d6c227",
     "securetextentry": false,
+    "showclearbutton": false,
     "textinputmode": "A",
     "viewtype": "default",
     "wType": "TextField",

@@ -42,6 +42,7 @@
     "isvisible": true,
     "kuid": "cdbe8ca0e2f7422c84df806522cce68b",
     "name": "kony.ui.Button",
+    "onclick": "AS_Button_3a9822f2140c4060a82cfc0a9abe2adc",
     "parent": "FlexScrollContainer0882192ab2a7b40",
     "pf": "frmNewsKA",
     "wType": "Button",

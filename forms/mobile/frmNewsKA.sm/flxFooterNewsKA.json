@@ -37,10 +37,9 @@
     },
     "children": [
         "Label0f0c3ac02175d4a",
-        "flxBtnCommunityKA",
-        "flxBtnRemittanceKA",
-        "flxBtnAssistanceKA",
-        "flxBtnAlerts"
+        "flxBackOptionsTransferKA",
+        "flxBackMapKA",
+        "flxContainerPrincipalFooterKA"
     ],
     "clipbounds": true,
     "containerweight": 100,

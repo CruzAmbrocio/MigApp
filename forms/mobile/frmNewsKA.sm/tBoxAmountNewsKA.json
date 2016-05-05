@@ -19,7 +19,7 @@
         0
     ],
     "_placeholder_": "Amount",
-    "_skin_": "sb0369d8f5ba4927967ca33ce800aac6",
+    "_skin_": "se4cb58f7055476888ab9f462eb3b35e",
     "_text_": "",
     "_top_": {
         "type": "string",
@@ -28,6 +28,11 @@
     "_width_": {
         "type": "string",
         "value": "85%"
+    },
+    "android": {
+        "psp": {
+            "keyboardActionLabel": 1
+        }
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -42,17 +47,30 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
+    "focusskin": "se4cb58f7055476888ab9f462eb3b35e",
     "id": "tBoxAmountNewsKA",
     "info": null,
+    "iphone": {
+        "psp": {
+            "showClearButton": false,
+            "showCloseButton": false,
+            "showProgressIndicator": false
+        }
+    },
     "isvisible": true,
+    "keyboardstyle": "A",
     "keyboardtype": "A",
     "kuid": "fd097f75e347412f981b52e0017f76c8",
-    "mode": "A",
+    "mode": "N",
     "name": "kony.ui.TextBox2",
+    "ontextchange": "AS_TextField_fea41da52b624e6f95a69487d5bd9c98",
     "parent": "FlexScrollContainer0882192ab2a7b40",
     "pf": "frmNewsKA",
+    "placeholderskin": "s7b7b216ce21455a9422ec8157d6c227",
     "securetextentry": false,
-    "textinputmode": "A",
+    "showclearbutton": false,
+    "showoprogressindicator": false,
+    "textinputmode": "N",
     "viewtype": "default",
     "wType": "TextField",
     "zindex": 1

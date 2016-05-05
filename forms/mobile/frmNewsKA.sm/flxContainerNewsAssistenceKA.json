@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "100%"
     },
     "_margin_": [
         0,
@@ -35,11 +35,7 @@
         "type": "string",
         "value": "50%"
     },
-    "children": [
-        "FlexScrollContainer0882192ab2a7b40",
-        "flxIndicatorCommunityKA",
-        "CopyLabel0c1ea9d641f1f45"
-    ],
+    "children": [],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,

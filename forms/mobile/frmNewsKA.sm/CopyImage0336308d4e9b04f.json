@@ -37,6 +37,7 @@
     "containerweight": 100,
     "context": {
         "channel": "mobile",
+        "formID": "frmNewsKA",
         "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
@@ -47,6 +48,7 @@
     "isvisible": true,
     "kuid": "1ca05795d306454099772d997373dd5b",
     "name": "kony.ui.Image2",
+    "ontouchend": "AS_Image_01af733d55514ae8b30a12e5c54bf959",
     "parent": "FlexContainer0d5179a9e4c3b48",
     "pf": "frmNewsKA",
     "srcType": 1,

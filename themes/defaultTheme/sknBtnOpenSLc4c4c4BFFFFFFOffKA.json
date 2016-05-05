@@ -90,7 +90,9 @@
     }
   },
   "iphone": {
-    "font_name": "OpenSans-Light"
+    "font_name": "OpenSans-Light",
+    "font_size": 125,
+    "isForked": false
   },
   "isDefaultSkin": false,
   "kiosk": {

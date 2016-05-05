@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "100%"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -35,7 +35,10 @@
         "type": "string",
         "value": "50%"
     },
-    "children": [],
+    "children": [
+        "flxContainerSelectableKA",
+        "flxContainerOptionRemitanceKA"
+    ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
@@ -49,6 +52,9 @@
     "pf": "frmNewsKA",
     "snapgridsize": 10,
     "snaptogrid": true,
+    "vizProps": {
+        "hide": false
+    },
     "wType": "FlexContainer",
     "widgetalignment": 1,
     "zindex": 1

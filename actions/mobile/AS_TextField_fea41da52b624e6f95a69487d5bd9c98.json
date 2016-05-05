@@ -1,0 +1,26 @@
+{
+    "AS_TextField_fea41da52b624e6f95a69487d5bd9c98": {
+        "id": "AS_TextField_fea41da52b624e6f95a69487d5bd9c98",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmNewsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3cb2e025e7da4f7b9ed48257833714e6"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__987275abbd0542f28d171de8e4dd92e3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (frmConfigDataAppKA.tBoxNameCityNowKA.text != \"\"){\n\tfrmConfigDataAppKA.btnSearchCommunityKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

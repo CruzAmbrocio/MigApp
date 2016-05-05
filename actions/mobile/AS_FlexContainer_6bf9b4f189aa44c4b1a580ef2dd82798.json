@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_6bf9b4f189aa44c4b1a580ef2dd82798": {
+        "id": "AS_FlexContainer_6bf9b4f189aa44c4b1a580ef2dd82798",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_3b353278e58a416199f7cbcb72c1c1c8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewsKA.tBoxFromNewsKA.text = \"         United Kingdom\";\nfrmNewsKA.flxIndicatorCommunityKA.isVisible = true;\n\nfrmNewsKA.flxIndicatorOneCKA.skin = skne2e2e2R100KA;\nfrmNewsKA.flxIndicatorTwoCKA.skin = skne2e2e2R100KA;\nfrmNewsKA.flxIndicatorThreeCKA.skin = skn3ae8a1R100KA;\nfrmNewsKA.flxIndicatorFourCKA.skin = skne2e2e2R100KA;\nfrmNewsKA.flxIndicatorFiveCKA.skin = skne2e2e2R100KA;\n\nfrmNewsKA.imgCheckOneRKA.isVisible = false;\nfrmNewsKA.imgCheckTwoRKA.isVisible = false;\nfrmNewsKA.imgCheckThreeRKA.isVisible = true;\nfrmNewsKA.imgCheckFourRKA.isVisible = false;\nfrmNewsKA.imgCheckFiveRKA.isVisible = false;",
+            "callbackType": null
+        }]
+    }
+}

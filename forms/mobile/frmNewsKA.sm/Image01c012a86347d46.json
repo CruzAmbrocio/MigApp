@@ -9,7 +9,7 @@
     },
     "_height_": {
         "type": "string",
-        "value": "25dp"
+        "value": "20dp"
     },
     "_margin_": [
         0,
@@ -27,7 +27,7 @@
     "_src_": "sharesmalls.png",
     "_width_": {
         "type": "string",
-        "value": "25dp"
+        "value": "20dp"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -37,6 +37,7 @@
     "containerweight": 100,
     "context": {
         "channel": "mobile",
+        "formID": "frmNewsKA",
         "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null

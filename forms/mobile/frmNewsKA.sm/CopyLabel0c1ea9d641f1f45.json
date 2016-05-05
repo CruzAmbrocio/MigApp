@@ -57,7 +57,7 @@
     "isvisible": true,
     "kuid": "f46d01e543b74ea18f435a060f617ebf",
     "name": "kony.ui.Label",
-    "parent": "flxContainerNewsAssistenceKA",
+    "parent": "flxContainerSelectableKA",
     "pf": "frmNewsKA",
     "tooltip": "",
     "wType": "Label",

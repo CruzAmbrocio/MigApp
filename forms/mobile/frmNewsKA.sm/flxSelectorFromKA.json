@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "220dp"
+        "value": "58%"
     },
     "_margin_": [
         0,
@@ -29,6 +29,7 @@
         "value": "84.80%"
     },
     "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
@@ -47,7 +48,7 @@
     "enablescrolling": true,
     "id": "flxSelectorFromKA",
     "info": null,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "466e4eef9a7141d3848e1d814c46109f",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",

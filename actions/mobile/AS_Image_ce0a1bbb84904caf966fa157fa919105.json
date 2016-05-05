@@ -1,0 +1,33 @@
+{
+    "AS_Image_ce0a1bbb84904caf966fa157fa919105": {
+        "id": "AS_Image_ce0a1bbb84904caf966fa157fa919105",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmInfoNewKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1b2f9236cd6643569efc680608e82727"
+        },
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___2e12c383233749eabf49d89e8deb92bd",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewsKA",
+            "formKUID": "3cb2e025e7da4f7b9ed48257833714e6",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

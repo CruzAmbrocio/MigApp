@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s87ec217bc8c44d48301251ddaa7af85",
+    "_text_": "Brazil's largest political party looks set to quit the government of leftist President Dilma Rousseff on Tuesday, in a move that would trigger the collapse of the coalition and propel her a step closer to impeachment.  The country's largest party, the PMDB, is due to make its decision on Tuesday but senior figures indicated the meeting was all but a formality.  \"It will be an exit meeting, a goodbye to the government. We calculate we have a vote of more than 80 percent in favor of quitting,\" said Osmar Terra, a senior party figure.  \"There has been a series of dominoes falling, and it cannot be turned back. The government keeps trying, and offers jobs, but nobody believes it any more.\"  Ms Rousseff, who is fighting recession, scandal, protests and the mounting push to impeach her, met PMDB ministers Monday to try to convince them to stay.  But a spokesman for Michel Temer - the party leader and Ms Rousseff's vice president and the man who will take power if she is impeached - told AFP the only outstanding issue was a proposed deadline for cabinet members to leave the PMDB if they want to keep their jobs.",
+    "_top_": {
+        "type": "string",
+        "value": "63%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "Label03b95df212f424b",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "355f7a6d5bfe49159d351e4b0f544a52",
+    "name": "kony.ui.Label",
+    "parent": "FlexScrollNewContainerKA",
+    "pf": "frmInfoNewKA",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}
