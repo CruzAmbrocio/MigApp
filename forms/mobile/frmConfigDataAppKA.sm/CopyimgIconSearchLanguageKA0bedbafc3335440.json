@@ -21,24 +21,23 @@
     ],
     "_right_": {
         "type": "string",
-        "value": "10.94%"
+        "value": "5%"
     },
     "_skin_": "sc45f9a3f99644eca765a29c02e2c597",
     "_src_": "iconsearch.png",
-    "_top_": {
-        "type": "string",
-        "value": "4.05%"
-    },
     "_width_": {
         "type": "string",
         "value": "17dp"
     },
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "context": {
         "channel": "mobile",
         "formID": "frmConfigDataAppKA",
-        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },
@@ -48,7 +47,7 @@
     "isvisible": true,
     "kuid": "de4cd1daf6784b8bb5ccc42ec2bb91d0",
     "name": "kony.ui.Image2",
-    "parent": "flxSelectNowILiveInKA",
+    "parent": "FlexContainer0e487d78c82c748",
     "pf": "frmConfigDataAppKA",
     "srcType": 1,
     "wType": "Image",

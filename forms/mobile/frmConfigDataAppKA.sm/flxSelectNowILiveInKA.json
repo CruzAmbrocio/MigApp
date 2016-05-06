@@ -23,22 +23,22 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s5c9731ad38c441d96019aa2b7817cdb",
+    "_skin_": "s771c20c12d349d69cf0d4763f8dd0ce",
     "_width_": {
         "type": "string",
         "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
+    "allowhorizontalbounce": true,
+    "allowverticalbounce": true,
+    "bounces": false,
     "canUpdateUI": true,
     "centery": {
         "type": "string",
         "value": "50%"
     },
     "children": [
-        "tBoxNameCityNowKA",
-        "flxIndicatorCityNowKA",
-        "CopyimgIconSearchLanguageKA0bedbafc3335440",
+        "FlexContainer0e487d78c82c748",
         "lblFindAutoCityKA",
         "flxContainerToogleNowCityKA",
         "lblTextFindAutoCityKA",
@@ -46,21 +46,29 @@
     ],
     "clipbounds": true,
     "containerweight": 100,
+    "decelerat": false,
+    "defaultunit": 3,
+    "dragg": false,
     "enablescrolling": true,
+    "horizontalscrollindicator": false,
     "id": "flxSelectNowILiveInKA",
     "info": null,
     "isvisible": true,
-    "kuid": "863c0f0113ca43a5a86178410e484b1e",
+    "kuid": "79fccc230d1f4f3fb92094d42779c089",
     "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
     "parent": "flxContainerSectionsConfigKA",
     "pf": "frmConfigDataAppKA",
-    "snapgridsize": 10,
+    "scrolldirection": 2,
+    "snapgridsize": "100",
     "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": false,
     "vizProps": {
         "hide": false
     },
-    "wType": "FlexContainer",
+    "wType": "FlexScrollContainer",
     "widgetalignment": 1,
     "zindex": 1
 }

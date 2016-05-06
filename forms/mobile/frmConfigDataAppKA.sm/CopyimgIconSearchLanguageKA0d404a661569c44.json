@@ -21,19 +21,19 @@
     ],
     "_right_": {
         "type": "string",
-        "value": "10.94%"
+        "value": "5%"
     },
     "_skin_": "sc45f9a3f99644eca765a29c02e2c597",
     "_src_": "iconsearch.png",
-    "_top_": {
-        "type": "string",
-        "value": "4.05%"
-    },
     "_width_": {
         "type": "string",
         "value": "17dp"
     },
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "context": {
         "channel": "mobile",
@@ -48,7 +48,7 @@
     "isvisible": true,
     "kuid": "b03b961ed2b54c22aecda2edbc3830c7",
     "name": "kony.ui.Image2",
-    "parent": "flxSelectImFromKA",
+    "parent": "FlexContainer0e595b6d66bf547",
     "pf": "frmConfigDataAppKA",
     "srcType": 1,
     "wType": "Image",

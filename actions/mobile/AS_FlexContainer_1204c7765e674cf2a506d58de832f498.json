@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_1204c7765e674cf2a506d58de832f498": {
+        "id": "AS_FlexContainer_1204c7765e674cf2a506d58de832f498",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_29b2711f8ff1455f85b8fa95559f3bbb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.flexIndicatorCityOneKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flexIndicatorCityTwoKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flexIndicatorCityThreeKA.skin = skn3ae8a1R100KA;\nfrmConfigDataAppKA.flexIndicatorCityFourKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flexIndicatorCityFiveKA.skin = skne2e2e2R100KA;\n\nfrmConfigDataAppKA.imgCheckCityOneKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckCityTwoKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckCityThreeKA.isVisible = true;\nfrmConfigDataAppKA.imgCheckCityFourKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckCityFiveKA.isVisible = false;\n\nfrmConfigDataAppKA.tBoxNameCityKA.text = \"          San Jose\";\n\nfrmConfigDataAppKA.flxIndicatorCityMainKA.isVisible = true;\n\nfrmConfigDataAppKA.imgBackKA.src = \"bsaopaulo.png\";\n\nfrmConfigDataAppKA.btnNextImFromKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;",
+            "callbackType": null
+        }]
+    }
+}

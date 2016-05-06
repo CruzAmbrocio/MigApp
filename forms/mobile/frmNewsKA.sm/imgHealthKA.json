@@ -20,7 +20,7 @@
         0
     ],
     "_skin_": "sc45f9a3f99644eca765a29c02e2c597",
-    "_src_": "hospital.png",
+    "_src_": "hospitalactive.png",
     "_width_": {
         "type": "string",
         "value": "60%"
@@ -37,7 +37,8 @@
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "platform": "android",
+        "formID": "frmNewsKA",
+        "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },

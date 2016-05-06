@@ -26,7 +26,7 @@
     "_skin_": "s771c20c12d349d69cf0d4763f8dd0ce",
     "_top_": {
         "type": "string",
-        "value": "7.50%"
+        "value": "8%"
     },
     "_width_": {
         "type": "string",
@@ -34,8 +34,8 @@
     },
     "allboxes": [],
     "allowhorizontalbounce": false,
-    "allowverticalbounce": false,
-    "bounces": false,
+    "allowverticalbounce": true,
+    "bounces": true,
     "canUpdateUI": true,
     "children": [
         "FlexContainer0b6014b0efe2540",

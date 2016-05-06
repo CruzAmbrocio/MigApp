@@ -4,8 +4,7 @@
  * @author Cruz Ambrocio <cruzambrocio1409@gmail.com>
  */
 
-function opnMd()
-{
+function opnMd(){
 var querycontext = {mimetype:"image/*"};
     returnStatus = kony.phone.openMediaGallery(onselectioncallback, querycontext);
     //alert("Status is :" +returnStatus);

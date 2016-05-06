@@ -1,0 +1,19 @@
+{
+    "AS_TextField_73265c8116114210a7d8c0f62ce1a2dd": {
+        "id": "AS_TextField_73265c8116114210a7d8c0f62ce1a2dd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onTextChange_2af0b643dc0a47fe960b14d8a0b7336e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.btnToogleImFromKA.isVisible = true;\n\nif (frmConfigDataAppKA.tBoxNameCityKA.text == \"          \"){\n\tfrmConfigDataAppKA.flxIndicatorCityMainKA.isVisible = false;\n    frmConfigDataAppKA.tBoxNameCityKA.text = \"\";\n\tfrmConfigDataAppKA.btnNextImFromKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;\n}",
+            "callbackType": null
+        }]
+    }
+}

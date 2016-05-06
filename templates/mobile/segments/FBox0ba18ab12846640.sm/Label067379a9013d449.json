@@ -20,7 +20,7 @@
     ],
     "_right_": {
         "type": "string",
-        "value": "5%"
+        "value": "4%"
     },
     "_skin_": "s18225b7963a416e97704ef1b5ce390b",
     "_text_": "Label",
@@ -56,7 +56,7 @@
         }
     },
     "isSegmentChild": true,
-    "isvisible": false,
+    "isvisible": true,
     "kuid": "56d4eead9f284d6ba2f0a6bec573810d",
     "name": "kony.ui.Label",
     "parent": "FBox0ba18ab12846640",

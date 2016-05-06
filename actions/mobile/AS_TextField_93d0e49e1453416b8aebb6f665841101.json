@@ -1,0 +1,19 @@
+{
+    "AS_TextField_93d0e49e1453416b8aebb6f665841101": {
+        "id": "AS_TextField_93d0e49e1453416b8aebb6f665841101",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onTextChange_6e39a50153054d8d8adff01fd5c8f234",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.flxContainerToogleNowCityKA.isVisible = true;\n\nif (frmConfigDataAppKA.tBoxNameCityNowKA.text == \"          \"){\n\tfrmConfigDataAppKA.flxIndicatorCityNowKA.isVisible = false;\n    frmConfigDataAppKA.tBoxNameCityNowKA.text = \"\";\n\tfrmConfigDataAppKA.btnDoneConfigKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;\n}",
+            "callbackType": null
+        }]
+    }
+}

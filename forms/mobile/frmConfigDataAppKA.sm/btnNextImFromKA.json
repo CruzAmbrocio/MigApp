@@ -42,7 +42,7 @@
     "isvisible": true,
     "kuid": "ca164f09a2d64335b46b3909eecb9c32",
     "name": "kony.ui.Button",
-    "onclick": "AS_Button_4c3f1b790ca44e699ef7b0c0b7e9f758",
+    "onclick": "AS_Button_a99233aefe6f45a3bfdeef93541b587f",
     "parent": "flxSelectImFromKA",
     "pf": "frmConfigDataAppKA",
     "wType": "Button",

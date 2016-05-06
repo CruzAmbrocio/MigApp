@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_9f8e0754f550441bb50f41a941c79a45": {
+        "id": "AS_FlexContainer_9f8e0754f550441bb50f41a941c79a45",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_3cd66bb2912d498dbf9338a901f24c16",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.flexIndicatorCityOneKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flexIndicatorCityTwoKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flexIndicatorCityThreeKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flexIndicatorCityFourKA.skin = skn3ae8a1R100KA;\nfrmConfigDataAppKA.flexIndicatorCityFiveKA.skin = skne2e2e2R100KA;\n\nfrmConfigDataAppKA.imgCheckCityOneKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckCityTwoKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckCityThreeKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckCityFourKA.isVisible = true;\nfrmConfigDataAppKA.imgCheckCityFiveKA.isVisible = false;\n\nfrmConfigDataAppKA.tBoxNameCityKA.text = \"          San Salvador\";\n\nfrmConfigDataAppKA.flxIndicatorCityMainKA.isVisible = true;\n\nfrmConfigDataAppKA.imgBackKA.src = \"bsaopaulo.png\";\n\nfrmConfigDataAppKA.btnNextImFromKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;",
+            "callbackType": null
+        }]
+    }
+}

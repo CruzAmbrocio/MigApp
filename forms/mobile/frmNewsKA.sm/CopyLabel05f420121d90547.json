@@ -34,11 +34,11 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "37%"
+        "value": "37.03%"
     },
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "49.73%"
     },
     "containerweight": 100,
     "contentalignment": 5,
@@ -57,6 +57,7 @@
     "isvisible": true,
     "kuid": "bb8889f57f5a47daa09bdd7ff199c8aa",
     "name": "kony.ui.Label",
+    "ontouchend": "AS_Label_72c7fb5b122641b89452e5769af5b02e",
     "parent": "flxContaierHeaderKA",
     "pf": "frmNewsKA",
     "tooltip": "",

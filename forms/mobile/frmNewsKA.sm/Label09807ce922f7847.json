@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "3%"
+        "value": "2.50%"
     },
     "_margin_": [
         1,
@@ -26,7 +26,7 @@
     "_text_": "Brazil's largest political parts looks set to quit the government of leftist President  Dilma Rousseff on Tuesday.",
     "_top_": {
         "type": "string",
-        "value": "70%"
+        "value": "70.00%"
     },
     "_width_": {
         "type": "string",

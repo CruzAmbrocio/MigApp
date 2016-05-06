@@ -60,7 +60,7 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "vizProps": {
-        "hide": false
+        "hide": true
     },
     "wType": "FlexContainer",
     "widgetalignment": 1,

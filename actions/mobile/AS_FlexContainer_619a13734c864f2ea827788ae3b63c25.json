@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_619a13734c864f2ea827788ae3b63c25": {
+        "id": "AS_FlexContainer_619a13734c864f2ea827788ae3b63c25",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_467e11aa2815427ba9aa1d66a83d9edb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.flexIndicatorCityOneKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flexIndicatorCityTwoKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flexIndicatorCityThreeKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flexIndicatorCityFourKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flexIndicatorCityFiveKA.skin = skn3ae8a1R100KA;\n\nfrmConfigDataAppKA.imgCheckCityOneKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckCityTwoKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckCityThreeKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckCityFourKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckCityFiveKA.isVisible = true;\n\nfrmConfigDataAppKA.tBoxNameCityKA.text = \"          Sao Pablo\";\n\nfrmConfigDataAppKA.flxIndicatorCityMainKA.isVisible = true;\n\nfrmConfigDataAppKA.imgBackKA.src = \"bsaopaulo.png\";\n\nfrmConfigDataAppKA.btnNextImFromKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;",
+            "callbackType": null
+        }]
+    }
+}

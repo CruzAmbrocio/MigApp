@@ -52,13 +52,14 @@
     "info": null,
     "iphone": {
         "psp": {
+            "keyboardActionLabel": 2,
             "showClearButton": false,
             "showCloseButton": false,
-            "showProgressIndicator": false
+            "showProgressIndicator": true
         }
     },
     "isvisible": true,
-    "keyboardstyle": "A",
+    "keyboardstyle": "digitpad",
     "keyboardtype": "A",
     "kuid": "fd097f75e347412f981b52e0017f76c8",
     "mode": "N",
@@ -69,7 +70,7 @@
     "placeholderskin": "s7b7b216ce21455a9422ec8157d6c227",
     "securetextentry": false,
     "showclearbutton": false,
-    "showoprogressindicator": false,
+    "showoprogressindicator": true,
     "textinputmode": "N",
     "viewtype": "default",
     "wType": "TextField",

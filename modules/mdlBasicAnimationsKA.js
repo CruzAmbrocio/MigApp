@@ -3,7 +3,7 @@
  *
  * @author Cruz Ambrocio <cruzambrocio1409@gmail.com>
  */
-
+//Move left
 function trancitionLeft(distance, form, delay, duration){
  var pForm = kony.application.getCurrentForm();
  try {
@@ -16,7 +16,7 @@ function trancitionLeft(distance, form, delay, duration){
      }
    }
    ),
-     {"delay": delay, "iterationCount": 1, "fillMode": kony.anim.FILL_MODE_FORWARDS, "duration":duration},
+     {"delay": delay, "iterationCount": 1, "fillMode": kony.anim.FILL_MODE_FORWARDS, "duration": duration},
      {"animationEnd": function(){ }
      }
     );
@@ -24,6 +24,7 @@ function trancitionLeft(distance, form, delay, duration){
  }
 }
 
+//Move top
 function trancitionTop(distance, form, delay, duration){
  var pForm = kony.application.getCurrentForm();
  try {
@@ -43,7 +44,7 @@ function trancitionTop(distance, form, delay, duration){
  } catch (e) {
  }
 }
-
+//change opacity
 function appearShadow(form, opacity){
 var pForm = kony.application.getCurrentForm();
     pForm[form].animate(
@@ -63,7 +64,7 @@ var pForm = kony.application.getCurrentForm();
 }
 
 
-
+//Is exclusive Splash Move top Logo
 function trancitionTopSplash(distance, form, delay, duration){
  var pForm = kony.application.getCurrentForm();
  try {

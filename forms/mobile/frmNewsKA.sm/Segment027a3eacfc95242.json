@@ -214,7 +214,8 @@
     },
     "iphone": {
         "psp": {
-            "indicator": "rowselect"
+            "indicator": "none",
+            "showProgressIndicator": false
         }
     },
     "isvisible": true,

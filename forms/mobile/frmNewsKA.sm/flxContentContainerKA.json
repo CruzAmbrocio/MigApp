@@ -37,8 +37,8 @@
     },
     "children": [
         "flxContainerNewsCommunityKA",
-        "flxContainerNewsRemittenceKA",
         "flxContainerNewsAssistenceKA",
+        "flxContainerNewsRemittenceKA",
         "flxContainerNewsAlertsKA"
     ],
     "clipbounds": true,

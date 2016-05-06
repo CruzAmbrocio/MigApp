@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "88.57%"
-    },
     "_margin_": [
         1,
         1,
@@ -17,20 +13,24 @@
         1
     ],
     "_padding_": [
+        1,
         0,
-        0,
-        0,
+        1,
         0
     ],
+    "_right_": {
+        "type": "string",
+        "value": "2.50%"
+    },
     "_skin_": "se025c4cf1f5464ba5e4ab83480642a0",
-    "_text_": "USA",
+    "_text_": "Brazil",
     "_top_": {
         "type": "string",
         "value": "1.20%"
     },
     "_width_": {
-        "type": "string",
-        "value": "10%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -57,6 +57,7 @@
     "isvisible": true,
     "kuid": "04eb8b38ea774d0c926165856e61fd1d",
     "name": "kony.ui.Label",
+    "paddinginpixel": false,
     "parent": "flxNewFirstKA",
     "pf": "frmNewsKA",
     "tooltip": "",

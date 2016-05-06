@@ -29,9 +29,9 @@
         "value": "100%"
     },
     "allboxes": [],
-    "allowhorizontalbounce": true,
+    "allowhorizontalbounce": false,
     "allowverticalbounce": true,
-    "bounces": false,
+    "bounces": true,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",

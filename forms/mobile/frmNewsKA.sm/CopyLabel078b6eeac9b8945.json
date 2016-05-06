@@ -57,6 +57,7 @@
     "isvisible": true,
     "kuid": "7da96dc873c04af09c46c3ae3d4fc9c9",
     "name": "kony.ui.Label",
+    "ontouchend": "AS_Label_4e4881d83f134d14b1a08ade651c2a94",
     "parent": "flxContaierHeaderKA",
     "pf": "frmNewsKA",
     "tooltip": "",

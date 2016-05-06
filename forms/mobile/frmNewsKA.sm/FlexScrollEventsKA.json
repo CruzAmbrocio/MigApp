@@ -33,9 +33,9 @@
         "value": "100%"
     },
     "allboxes": [],
-    "allowhorizontalbounce": true,
+    "allowhorizontalbounce": false,
     "allowverticalbounce": true,
-    "bounces": false,
+    "bounces": true,
     "canUpdateUI": true,
     "children": [
         "Label08cb4bc3a63c247",
@@ -45,7 +45,8 @@
         "CopyFlexContainer0aee05e23c6f646",
         "CopyFlexContainer03f0fe238ee4c4a",
         "CopyLabel0320607b496534b",
-        "CopyLabel024338f17c5904c"
+        "CopyLabel024338f17c5904c",
+        "CopyFlexContainer01ef712c05cd14c"
     ],
     "clipbounds": true,
     "containerweight": 100,
@@ -66,7 +67,7 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "track": false,
-    "verticalscrollindicator": true,
+    "verticalscrollindicator": false,
     "vizProps": {
         "hide": false
     },

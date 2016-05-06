@@ -1,0 +1,16 @@
+{
+    "AS_Button_2db7ab1052824e31a9a45b6b606c9387": {
+        "id": "AS_Button_2db7ab1052824e31a9a45b6b606c9387",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_8e32595b735d4527980a5fc073917987",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (frmConfigDataAppKA.btnNextImFromKA.skin == sknBtnOpenSLe2e2e2BFFFFFFOnKA){\n\tfrmNewsKA.show();\n}else {\n  \n}",
+            "callbackType": null
+        }]
+    }
+}

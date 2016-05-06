@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_276a44b258f24c07bd35b2cf2b7b946b": {
+        "id": "AS_FlexContainer_276a44b258f24c07bd35b2cf2b7b946b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchEnd_6e7c3a5a2e9848548ab566227e9317ef",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.btnToogleImFromKA.isVisible = false;",
+            "callbackType": null
+        }]
+    }
+}

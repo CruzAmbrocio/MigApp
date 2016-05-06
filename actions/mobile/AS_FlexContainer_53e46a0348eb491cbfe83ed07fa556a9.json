@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_53e46a0348eb491cbfe83ed07fa556a9": {
+        "id": "AS_FlexContainer_53e46a0348eb491cbfe83ed07fa556a9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_21cea84d861d47a5add2bbb0f24f3974",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.tBoxNameCityNowKA.text = \"          New Jersey\";\n\nfrmConfigDataAppKA.flxIndicatorCityNowKA.isVisible = true;\n\nfrmConfigDataAppKA.btnDoneConfigKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;\n\nfrmConfigDataAppKA.imgBackKA.src = \"bnewyork.png\";\n\nfrmConfigDataAppKA.flxIndicatorOneXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorTwoXyKA.skin = skn3ae8a1R100KA;\nfrmConfigDataAppKA.flxIndicatorThreeXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorFourXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorFiveXyKA.skin = skne2e2e2R100KA;\n\nfrmConfigDataAppKA.imgCheckLastOneKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastTwoKA.isVisible = true;\nfrmConfigDataAppKA.imgCheckLastThreeKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastFourKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastFiveKA.isVisible = false;",
+            "callbackType": null
+        }]
+    }
+}

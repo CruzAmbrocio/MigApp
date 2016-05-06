@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "13%"
+        "value": "100%"
     },
     "_margin_": [
         0,
@@ -27,10 +27,9 @@
     },
     "_width_": {
         "type": "string",
-        "value": "85%"
+        "value": "100%"
     },
     "android": {
-        "onEndEditing": "AS_TextField_65c578aa2416470eb59cc2d81edc9fa2",
         "psp": {
             "keyboardActionLabel": 1
         }
@@ -52,7 +51,6 @@
     "id": "tBoxNameCityKA",
     "info": null,
     "iphone": {
-        "onEndEditing": "AS_TextField_10aea912b78a4db7857b0ca638c6eeb6",
         "psp": {
             "showClearButton": false,
             "showCloseButton": false
@@ -64,10 +62,9 @@
     "kuid": "7eaf5650d3824850a122675eec66978f",
     "mode": "A",
     "name": "kony.ui.TextBox2",
-    "ondone": "AS_TextField_e9e40fc3e94f4947a93358911c1fa4eb",
-    "ontextchange": "AS_TextField_8097f1cee8274b78a5d4d2eedbb1923b",
+    "ontextchange": "AS_TextField_73265c8116114210a7d8c0f62ce1a2dd",
     "paddinginpixel": false,
-    "parent": "flxSelectImFromKA",
+    "parent": "FlexContainer0e595b6d66bf547",
     "pf": "frmConfigDataAppKA",
     "placeholderskin": "s7b7b216ce21455a9422ec8157d6c227",
     "securetextentry": false,

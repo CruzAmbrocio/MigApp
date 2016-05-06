@@ -9,7 +9,7 @@
         "actions": [{
             "id": "ADD_SNIPPET_onClick_f0a5b866b1ea4508845eaa3547b2ea6f",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "if (frmNewsKA.flxHealthKA.skin == skn3ae8a1R100KA && frmNewsKA.flxInformationKA.skin == skn3ae8a1R100KA){\n  frmNewsKA.flxHealthKA.skin = sknFlxFFFFFFR100KA;\n  frmNewsKA.flxInformationKA.skin = sknFlxFFFFFFR100KA;\n  frmNewsKA.flxIomKA.skin = sknFlxFFFFFFR100KA;\n\n  frmNewsKA.imgHealthKA.src = \"hospital.png\";\n  frmNewsKA.imgInfoKA.src = \"mig.png\";\n  frmNewsKA.imgIomKA.src = \"iom.png\";\n\n  //frmNewsKA.lblTimeInMinKA.isVisible = false;\n\n} else {\n  frmNewsKA.flxInformationKA.skin = skn3ae8a1R100KA;\n  frmNewsKA.imgInfoKA.src = \"migactive.png\";\n}",
+            "codeSnippet": "if (frmNewsKA.flxInformationKA.skin == sknFlxFFFFFFR100KA){\n  frmNewsKA.flxInformationKA.skin = skn3ae8a1R100KA;\n  frmNewsKA.imgInfoKA.src = \"migactive.png\";\n}else{\n  frmNewsKA.flxInformationKA.skin = sknFlxFFFFFFR100KA;\n  frmNewsKA.imgInfoKA.src = \"mig.png\";\n}",
             "callbackType": null
         }]
     }

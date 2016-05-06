@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_700ff149574f4ab288a32687732cfc38": {
+        "id": "AS_FlexContainer_700ff149574f4ab288a32687732cfc38",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_753c2f8ba85d4e01ad9855eb3861f97c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.tBoxNameCityNowKA.text = \"          New York\";\n\nfrmConfigDataAppKA.flxIndicatorCityNowKA.isVisible = true;\n\nfrmConfigDataAppKA.btnDoneConfigKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;\n\nfrmConfigDataAppKA.imgBackKA.src = \"bnewyork.png\";",
+            "callbackType": null
+        }]
+    }
+}

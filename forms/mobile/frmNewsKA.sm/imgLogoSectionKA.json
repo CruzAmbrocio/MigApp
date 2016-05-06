@@ -9,7 +9,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "31.67%"
+        "value": "33.67%"
     },
     "_margin_": [
         0,
@@ -37,7 +37,8 @@
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "platform": "android",
+        "formID": "frmNewsKA",
+        "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },

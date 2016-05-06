@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s87ec217bc8c44d48301251ddaa7af85",
+    "_text_": "The PMDB currently has seven ministers and 69 of the 513 members of the lower house of Congress, where the president is struggling to come up with the one-third vote she needs to block impeachment.  The impeachment case, currently before a congressional committee tasked with making a recommendation to the full lower house, is built on accusations that Ms Rousseff manipulated the government's accounts to boost public spending and hide the severity of the recession.",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyLabel03d56d5894b3d47",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "36a06f66df36423daa80be6f296de3ae",
+    "name": "kony.ui.Label",
+    "parent": "FlexScrollNewContainerKA",
+    "pf": "frmInfoNewKA",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

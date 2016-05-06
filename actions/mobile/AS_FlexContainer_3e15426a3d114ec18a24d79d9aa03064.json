@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_3e15426a3d114ec18a24d79d9aa03064": {
+        "id": "AS_FlexContainer_3e15426a3d114ec18a24d79d9aa03064",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_3c6a35d62530421fa055a53e608f40e9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.tBoxNameCityNowKA.text = \"          New Westminster\";\n\nfrmConfigDataAppKA.flxIndicatorCityNowKA.isVisible = true;\n\nfrmConfigDataAppKA.btnDoneConfigKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;\n\nfrmConfigDataAppKA.imgBackKA.src = \"bnewyork.png\";\n\nfrmConfigDataAppKA.flxIndicatorOneXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorTwoXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorThreeXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorFourXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorFiveXyKA.skin = skn3ae8a1R100KA;\n\nfrmConfigDataAppKA.imgCheckLastOneKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastTwoKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastThreeKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastFourKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastFiveKA.isVisible = true;",
+            "callbackType": null
+        }]
+    }
+}

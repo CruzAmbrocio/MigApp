@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_c5d362f5c0c94a45b5f6c6f3cc0879b2": {
+        "id": "AS_FlexContainer_c5d362f5c0c94a45b5f6c6f3cc0879b2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchEnd_6a3eaa5459054b89ac744a2ac99e4a64",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.flxContainerToogleNowCityKA.isVisible = false;",
+            "callbackType": null
+        }]
+    }
+}

@@ -45,7 +45,8 @@
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "platform": "android",
+        "formID": "frmNewsKA",
+        "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },

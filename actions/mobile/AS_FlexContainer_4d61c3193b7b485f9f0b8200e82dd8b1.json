@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_4d61c3193b7b485f9f0b8200e82dd8b1": {
+        "id": "AS_FlexContainer_4d61c3193b7b485f9f0b8200e82dd8b1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_e587994965844de6b54c648c17820fdf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfigDataAppKA.tBoxNameCityNowKA.text = \"          New Bedford\";\n\nfrmConfigDataAppKA.flxIndicatorCityNowKA.isVisible = true;\n\nfrmConfigDataAppKA.btnDoneConfigKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;\nfrmConfigDataAppKA.imgBackKA.src = \"bnewyork.png\";\n\nfrmConfigDataAppKA.flxIndicatorOneXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorTwoXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorThreeXyKA.skin = skne2e2e2R100KA;\nfrmConfigDataAppKA.flxIndicatorFourXyKA.skin = skn3ae8a1R100KA;\nfrmConfigDataAppKA.flxIndicatorFiveXyKA.skin = skne2e2e2R100KA;\n\nfrmConfigDataAppKA.imgCheckLastOneKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastTwoKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastThreeKA.isVisible = false;\nfrmConfigDataAppKA.imgCheckLastFourKA.isVisible = true;\nfrmConfigDataAppKA.imgCheckLastFiveKA.isVisible = false;",
+            "callbackType": null
+        }]
+    }
+}
