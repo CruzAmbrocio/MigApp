@@ -34,7 +34,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "iPhone5",
+    "device": "GalaxyS5",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmInfoNewKA",
@@ -74,11 +74,11 @@
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "paddinginpixel": false,
-    "platform": "iphone",
-    "prevDevice": "iPhone4",
+    "platform": "android",
+    "prevDevice": "iPhone5",
     "prevPlatform": "iphone",
     "retainscrollposition": false,
-    "shellCSS": "iOS_iPhone5",
+    "shellCSS": "and_GalaxyS5",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

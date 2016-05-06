@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "37.70%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc45f9a3f99644eca765a29c02e2c597",
+    "_src_": "sharebig.png",
+    "_width_": {
+        "type": "string",
+        "value": "34.88%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "CopyImage0836165ce04bc48",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "9b6a7dab94dc4ef98d98de947937cf50",
+    "name": "kony.ui.Image2",
+    "parent": "flxShareMapKA",
+    "pf": "frmNewsKA",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

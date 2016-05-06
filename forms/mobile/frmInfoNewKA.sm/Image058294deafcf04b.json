@@ -23,7 +23,7 @@
     "_src_": "newstwo.png",
     "_top_": {
         "type": "string",
-        "value": "160.65%"
+        "value": "2%"
     },
     "_width_": {
         "type": "string",
@@ -38,7 +38,7 @@
     "context": {
         "channel": "mobile",
         "formID": "frmInfoNewKA",
-        "platform": "iphone",
+        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },

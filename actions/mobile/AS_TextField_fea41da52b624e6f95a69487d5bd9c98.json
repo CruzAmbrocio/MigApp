@@ -18,7 +18,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__987275abbd0542f28d171de8e4dd92e3",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "if (frmConfigDataAppKA.tBoxNameCityNowKA.text != \"\"){\n\tfrmConfigDataAppKA.btnSearchCommunityKA.skin = sknBtnOpenSLc4c4c4BFFFFFFOffKA;\n}",
+            "codeSnippet": "if (frmNewsKA.tBoxAmountNewsKA.text != \"\"){\n\tfrmNewsKA.btnSearchCommunityKA.skin = sknBtnOpenSLe2e2e2BFFFFFFOnKA;\n}",
             "parentId": null,
             "callbackType": null
         }]

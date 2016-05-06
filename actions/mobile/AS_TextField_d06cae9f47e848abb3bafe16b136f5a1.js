@@ -1,4 +1,4 @@
-function AS_TextField_db2ac38e68044969891f9916f3b47c9f(eventobject, changedtext) {
+function AS_TextField_d06cae9f47e848abb3bafe16b136f5a1(eventobject, changedtext) {
     frmNewsKA.flxSelectorToKA.isVisible = true;
     if (frmNewsKA.tBoxToNewsKA.text == "         ") {
         frmNewsKA.flxIndicatorToKA.isVisible = false;

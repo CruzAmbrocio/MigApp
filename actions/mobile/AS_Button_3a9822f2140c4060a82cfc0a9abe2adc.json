@@ -15,7 +15,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__d528830d99ab47f1903126dd9f7623ad",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "if (frmNewsKA.btnSearchCommunityKA.skin == sknBtnOpenSLc4c4c4BFFFFFFOffKA){\n\ttrancitionLeft(\"-100%\", \"flxContainerSelectableKA\", 0, 0.5);\n\ttrancitionLeft(\"0%\", \"flxContainerOptionRemitanceKA\", 0, 0.5);\n  \tfrmNewsKA.flxBackOptionsTransferKA.isVisible = true;\n  \tfrmNewsKA.flxContainerPrincipalFooterKA.isVisible = false;\n}else {\n  \n}",
+            "codeSnippet": "if (frmNewsKA.btnSearchCommunityKA.skin == sknBtnOpenSLe2e2e2BFFFFFFOnKA){\n\ttrancitionLeft(\"-100%\", \"flxContainerSelectableKA\", 0, 0.5);\n\ttrancitionLeft(\"0%\", \"flxContainerOptionRemitanceKA\", 0, 0.5);\n  \tfrmNewsKA.flxBackOptionsTransferKA.isVisible = true;\n  \tfrmNewsKA.flxContainerPrincipalFooterKA.isVisible = false;\n}else {\n  \n}",
             "parentId": null,
             "callbackType": null
         }]

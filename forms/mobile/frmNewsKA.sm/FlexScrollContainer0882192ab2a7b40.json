@@ -38,19 +38,19 @@
         "value": "50%"
     },
     "children": [
-        "tBoxFromNewsKA",
-        "imgIconSearchLanguageKA",
+        "flxContainerFromKA",
         "flxSelectorFromKA",
-        "tBoxToNewsKA",
-        "CopyimgIconSearchLanguageKA0a034149ff19043",
+        "flxContainerToKA",
         "flxSelectorToKA",
         "tBoxAmountNewsKA",
+        "Label05d841dea28844a",
         "flxSelectorAmountKA",
         "btnSearchCommunityKA"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "decelerat": false,
+    "defaultunit": 3,
     "dragg": false,
     "enablescrolling": true,
     "horizontalscrollindicator": false,
@@ -64,10 +64,10 @@
     "parent": "flxContainerSelectableKA",
     "pf": "frmNewsKA",
     "scrolldirection": 2,
-    "snapgridsize": 10,
+    "snapgridsize": "100",
     "snaptogrid": true,
     "track": false,
-    "verticalscrollindicator": true,
+    "verticalscrollindicator": false,
     "wType": "FlexScrollContainer",
     "widgetalignment": 1
 }

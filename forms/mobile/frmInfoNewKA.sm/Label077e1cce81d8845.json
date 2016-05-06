@@ -17,16 +17,16 @@
         1
     ],
     "_padding_": [
+        2,
         0,
-        0,
-        0,
+        2,
         0
     ],
-    "_skin_": "sefb0a528e3e4ec285d9f0e8185d9eac",
+    "_skin_": "s1e88196c66a4423825254db0deed511",
     "_text_": "Brazil",
     "_top_": {
         "type": "string",
-        "value": "56.20%"
+        "value": "-3%"
     },
     "_width_": {
         "type": "ref",
@@ -57,6 +57,7 @@
     "isvisible": true,
     "kuid": "1c24a9fbfe014b55aa4aa82a0f339024",
     "name": "kony.ui.Label",
+    "paddinginpixel": false,
     "parent": "FlexScrollNewContainerKA",
     "pf": "frmInfoNewKA",
     "tooltip": "",

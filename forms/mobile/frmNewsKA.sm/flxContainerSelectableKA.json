@@ -41,10 +41,7 @@
     },
     "children": [
         "FlexScrollContainer0882192ab2a7b40",
-        "flxIndicatorCommunityKA",
-        "flxIndicatorToKA",
         "CopyLabel0c1ea9d641f1f45",
-        "Label05d841dea28844a",
         "FlexContainer09fde0b6cf6bd4b"
     ],
     "clipbounds": true,

@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_30955361cd9d46dba0a44c0c01ec6a33": {
+        "id": "AS_FlexContainer_30955361cd9d46dba0a44c0c01ec6a33",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_f1027fc7c27b4a76ab21d6fd0242eae6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (frmNewsKA.flxHealthKA.skin == skn3ae8a1R100KA && frmNewsKA.flxInformationKA.skin == skn3ae8a1R100KA){\n  frmNewsKA.flxHealthKA.skin = sknFlxFFFFFFR100KA;\n  frmNewsKA.flxInformationKA.skin = sknFlxFFFFFFR100KA;\n  frmNewsKA.flxIomKA.skin = sknFlxFFFFFFR100KA;\n\n  frmNewsKA.imgHealthKA.src = \"hospital.png\";\n  frmNewsKA.imgInfoKA.src = \"mig.png\";\n  frmNewsKA.imgIomKA.src = \"iom.png\";\n\n  //frmNewsKA.Label067379a9013d449.isVisible = false;\n  \n} else {\n  frmNewsKA.flxHealthKA.skin = skn3ae8a1R100KA;\n  frmNewsKA.imgHealthKA.src = \"iomactive.png\";\n  \n  //frmNewsKA.Label067379a9013d449.isVisible = true;\n  \n}",
+            "callbackType": null
+        }]
+    }
+}

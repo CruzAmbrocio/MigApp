@@ -40,8 +40,8 @@
     "children": [
         "imgNewKA",
         "Label0e0c0fefc454d43",
-        "Label0865008aa36cb40",
         "Label0a9b924ce8ada47",
+        "Label0865008aa36cb40",
         "Label077e1cce81d8845",
         "CopyLabel017187ed641a041",
         "Label03b95df212f424b",
@@ -59,7 +59,7 @@
     "info": null,
     "isvisible": true,
     "kuid": "913f53ac12c44eae8db74d6148bec958",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexScrollContainer",
     "pagingenabled": false,
     "parent": "flxContainerNewKA",

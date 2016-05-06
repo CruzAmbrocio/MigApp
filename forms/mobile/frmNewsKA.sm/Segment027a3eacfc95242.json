@@ -1,0 +1,262 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image07512db257d9946": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "hospitalsmall.png"
+            },
+            "Label0561f21424bb14d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bellevue Hospital"
+            },
+            "Label067379a9013d449": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "0.1 mi"
+            },
+            "Label0aab29651364146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Liberty street, 4th Avenue New York, NY"
+            }
+        },
+        {
+            "Image07512db257d9946": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "hospitalsmall.png"
+            },
+            "Label0561f21424bb14d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Presbyterian Queens Hospital"
+            },
+            "Label067379a9013d449": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "0.4 mi"
+            },
+            "Label0aab29651364146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Liberty street, 4th Avenue New York, NY"
+            }
+        },
+        {
+            "Image07512db257d9946": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "migsmall.png"
+            },
+            "Label0561f21424bb14d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Migration Center"
+            },
+            "Label067379a9013d449": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "0.5 mi"
+            },
+            "Label0aab29651364146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Liberty street, 4th Avenue New York, NY"
+            }
+        },
+        {
+            "Image07512db257d9946": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "hospitalsmall.png"
+            },
+            "Label0561f21424bb14d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Gracie Square Hospital "
+            },
+            "Label067379a9013d449": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.2 mi "
+            },
+            "Label0aab29651364146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Liberty street, 4th Avenue New York, NY"
+            }
+        },
+        {
+            "Image07512db257d9946": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "migsmall.png"
+            },
+            "Label0561f21424bb14d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Brazil's Embassy"
+            },
+            "Label067379a9013d449": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.5 mi"
+            },
+            "Label0aab29651364146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Liberty street, 4th Avenue New York, NY"
+            }
+        },
+        {
+            "Image07512db257d9946": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "migsmall.png"
+            },
+            "Label0561f21424bb14d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "US Embassy"
+            },
+            "Label067379a9013d449": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.8 mi"
+            },
+            "Label0aab29651364146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Liberty street, 4th Avenue New York, NY"
+            }
+        },
+        {
+            "Image07512db257d9946": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "hospitalsmall.png"
+            },
+            "Label0561f21424bb14d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Harlem Hospital Center"
+            },
+            "Label067379a9013d449": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2.4 mi"
+            },
+            "Label0aab29651364146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Liberty street, 4th Avenue New York, NY"
+            }
+        },
+        {
+            "Image07512db257d9946": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "hospitalsmall.png"
+            },
+            "Label0561f21424bb14d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lenox Hill Hospital "
+            },
+            "Label067379a9013d449": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2.6 mi"
+            },
+            "Label0aab29651364146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Liberty street, 4th Avenue New York, NY"
+            }
+        },
+        {
+            "Image07512db257d9946": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "hospitalsmall.png"
+            },
+            "Label0561f21424bb14d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Metropolitan Hospital"
+            },
+            "Label067379a9013d449": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2.8 mi"
+            },
+            "Label0aab29651364146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Liberty street, 4th Avenue New York, NY"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "08",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "809be3341f184671851ba9d800e13e99",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment027a3eacfc95242",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "cea2464ec2a24a9a8c56f6783b7616a9",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_88a0b1f6935b4452b0377319390393d3",
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexContainer03b049374263749",
+    "pf": "frmNewsKA",
+    "retainselection": false,
+    "rowTemplateId": "809be3341f184671851ba9d800e13e99",
+    "rowcounter": 8,
+    "rowfocusskin": "s5a1ea23b75240ae8ba1cf41a3379dc8",
+    "rowskin": "sa86f1c5dd694a12a70ea2228cdeaac0",
+    "rowtemplate": "FBox0ba18ab12846640",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s5a4a0127e0d4de7adb18bd1aefed797",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "e2e2e200",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Image07512db257d9946": "Image07512db257d9946",
+        "Label0561f21424bb14d": "Label0561f21424bb14d",
+        "Label067379a9013d449": "Label067379a9013d449",
+        "Label0aab29651364146": "Label0aab29651364146"
+    }
+}

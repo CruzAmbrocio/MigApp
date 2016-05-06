@@ -1,0 +1,22 @@
+{
+    "AS_Segment_4f58be0786374a67a10c5544f26ab805": {
+        "id": "AS_Segment_4f58be0786374a67a10c5544f26ab805",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onRowClick_a9e23b53195e41618251b4402fbeca31",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "trancitionLeft(\"-100%\", \"flxSelectMapKA\", 0, 0.5);\ntrancitionLeft(\"0%\", \"flxMapInfoKA\", 0, 0.5);\nfrmNewsKA.flxBackMapKA.isVisible = true;\nfrmNewsKA.flxShareMapKA.isVisible = true;\nfrmNewsKA.flxContainerPrincipalFooterKA.isVisible = false;",
+            "callbackType": null
+        }]
+    }
+}

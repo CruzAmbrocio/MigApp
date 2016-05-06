@@ -1,6 +1,6 @@
 {
-    "AS_TextField_db2ac38e68044969891f9916f3b47c9f": {
-        "id": "AS_TextField_db2ac38e68044969891f9916f3b47c9f",
+    "AS_TextField_d06cae9f47e848abb3bafe16b136f5a1": {
+        "id": "AS_TextField_d06cae9f47e848abb3bafe16b136f5a1",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
@@ -9,17 +9,10 @@
             "datatype": "string",
             "name": "changedtext"
         }],
-        "contextObj": {
-            "name": "frmNewsKA",
-            "type": "forms",
-            "platform": "",
-            "KUID": "3cb2e025e7da4f7b9ed48257833714e6"
-        },
         "actions": [{
-            "id": "ADD_SNIPPET__8c6fcaf089e140d2bd2ceb8d72a48739",
+            "id": "ADD_SNIPPET_onTextChange_8469fc5b60c54a8fa75eaf2a38458f15",
             "type": "ADD_SNIPPET",
             "codeSnippet": "frmNewsKA.flxSelectorToKA.isVisible = true;\n\nif (frmNewsKA.tBoxToNewsKA.text == \"         \"){\n\tfrmNewsKA.flxIndicatorToKA.isVisible = false;\n    frmNewsKA.tBoxToNewsKA.text = \"\";\n}",
-            "parentId": null,
             "callbackType": null
         }]
     }

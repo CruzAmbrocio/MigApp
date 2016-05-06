@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "13%"
+        "value": "100%"
     },
     "_margin_": [
         0,
@@ -21,13 +21,9 @@
     "_placeholder_": "To",
     "_skin_": "se4cb58f7055476888ab9f462eb3b35e",
     "_text_": "",
-    "_top_": {
-        "type": "string",
-        "value": "6.80%"
-    },
     "_width_": {
         "type": "string",
-        "value": "85%"
+        "value": "100%"
     },
     "android": {
         "psp": {
@@ -40,6 +36,10 @@
     "autofilter": false,
     "canUpdateUI": true,
     "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
         "type": "string",
         "value": "50%"
     },
@@ -62,8 +62,8 @@
     "kuid": "13fce5ae000e4e699212c2fec329b73c",
     "mode": "A",
     "name": "kony.ui.TextBox2",
-    "ontextchange": "AS_TextField_db2ac38e68044969891f9916f3b47c9f",
-    "parent": "FlexScrollContainer0882192ab2a7b40",
+    "ontextchange": "AS_TextField_d06cae9f47e848abb3bafe16b136f5a1",
+    "parent": "flxContainerToKA",
     "pf": "frmNewsKA",
     "placeholderskin": "s7b7b216ce21455a9422ec8157d6c227",
     "securetextentry": false,

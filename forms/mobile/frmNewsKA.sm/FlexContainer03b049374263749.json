@@ -1,0 +1,57 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "73.50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb2d20d35042482cb16bebc70c8fe1d7",
+    "_top_": {
+        "type": "string",
+        "value": "26.50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Segment027a3eacfc95242"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContainer03b049374263749",
+    "info": null,
+    "isvisible": true,
+    "kuid": "6a35f7cd93cc481b9df0f33401296d8b",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxSelectMapKA",
+    "pf": "frmNewsKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

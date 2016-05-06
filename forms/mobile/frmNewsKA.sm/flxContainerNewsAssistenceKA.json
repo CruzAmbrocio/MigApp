@@ -35,7 +35,10 @@
         "type": "string",
         "value": "50%"
     },
-    "children": [],
+    "children": [
+        "flxSelectMapKA",
+        "flxMapInfoKA"
+    ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
@@ -50,7 +53,7 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "vizProps": {
-        "hide": true
+        "hide": false
     },
     "wType": "FlexContainer",
     "widgetalignment": 1,

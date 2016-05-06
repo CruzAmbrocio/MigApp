@@ -47,6 +47,7 @@
     "kuid": "f9354e2d32ba40f1b6495477e65bc672",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
+    "onclick": "AS_FlexContainer_5be77f06f91a454393fb3d751b566176",
     "parent": "flxFooterNewsKA",
     "pf": "frmNewsKA",
     "snapgridsize": 10,

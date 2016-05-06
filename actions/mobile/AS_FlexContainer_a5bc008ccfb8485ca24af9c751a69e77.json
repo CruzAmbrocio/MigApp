@@ -15,7 +15,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__87e6f7f9ad3846989a72219d0fc588dd",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "trancitionLeft(\"0%\", \"flxContainerSelectableKA\", 0, 0.5);\ntrancitionLeft(\"100%\", \"flxContainerOptionRemitanceKA\", 0, 0.5);\nflxBackOptionsTransferKA.isVisible = false;\nfrmNewsKA.flxContainerPrincipalFooterKA.isVisible = true;\n",
+            "codeSnippet": "trancitionLeft(\"0%\", \"flxContainerSelectableKA\", 0, 0.5);\ntrancitionLeft(\"100%\", \"flxContainerOptionRemitanceKA\", 0, 0.5);\nfrmNewsKA.flxBackOptionsTransferKA.isVisible = false;\nfrmNewsKA.flxContainerPrincipalFooterKA.isVisible = true;\n",
             "parentId": null,
             "callbackType": null
         }]
